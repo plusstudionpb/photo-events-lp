@@ -1,0 +1,23 @@
+# 例）ここにRSS URLを1行ずつ追加
+# モデル撮影会アンテナ（最重要）
+https://a.hatena.ne.jp/dottonob/rss
+
+# モデル・ポートレート撮影会
+https://asterfoto.com/feed.rss
+https://photo-shimakage.com/feed.rss
+https://juicyorange.jp/feed.rss
+https://photofaggio.com/feed.rss
+https://www.cui-cui.jp/feed
+
+# スタジオ主催モデル撮影会
+https://smilestone-studio.com/feed.rss
+https://daybydaystudio.jp/feed.rss
+https://r.goope.jp/smilestone24510/feed.rss
+
+# アイドル・タレント系（撮影会混在）
+https://ameblo.jp/photopro-feed/rss.html
+https://ameblo.jp/idol-photo/rss.html
+
+# コスプレ寄り
+https://cosplaycafe.jp/feed
+https://eventchecker.info/feed

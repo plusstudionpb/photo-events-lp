@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>全国 撮影会情報まとめ</title>
+  <link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__inner">
+      <h1>全国 撮影会情報まとめ</h1>
+      <p class="sub">公式へ飛ぶリンク集。オールジャンル（R18はフィルター＋年齢確認）</p>
+
+      <div class="controls">
+        <input id="q" type="search" placeholder="キーワード（例：大阪 / スタジオ / コスプレ）" />
+
+        <select id="pref">
+          <option value="">都道府県（全て）</option>
+        </select>
+
+        <select id="genre">
+          <option value="">ジャンル（全て）</option>
+          <option value="portrait">ポートレート</option>
+          <option value="cosplay">コスプレ</option>
+          <option value="studio">スタジオ</option>
+          <option value="outdoor">屋外</option>
+          <option value="other">その他</option>
+        </select>
+
+        <select id="sort">
+          <option value="new">新着</option>
+          <option value="pop">人気</option>
+        </select>
+
+        <button id="weekend" type="button">今週末だけ</button>
+
+        <label class="toggle">
+          <input id="r18" type="checkbox">
+          <span>R18を表示</span>
+        </label>
+
+        <button id="reset" type="button">リセット</button>
+      </div>
+
+      <div class="note">
+        <span id="updated">最終更新: -</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="grid">
+      <div class="panel">
+        <h2>最新の撮影会（埋め込み枠）</h2>
+        <p class="small">※この枠は <code>/api/latest.json</code> を自動更新するだけで最新反映されます。</p>
+
+        <iframe
+          id="embedFrame"
+          src="./embed/latest.html"
+          title="最新の撮影会情報"
+          loading="lazy"
+          class="embed"
+        ></iframe>
+      </div>
+
+      <div class="panel">
+        <h2>X 最新情報（公式埋め込み）</h2>
+        <p class="small">
+          ※ここは「あなたのXアカウント」を表示します。撮影会情報をRT/引用するとリアルタイム感が出ます。
+        </p>
+
+        <!-- ▼▼ ここをあなたのXアカウントに変更 ▼▼ -->
+        <a class="twitter-timeline"
+           data-height="700"
+           data-theme="dark"
+           href="https://x.com/YOUR_X_ACCOUNT">
+           X Timeline
+        </a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- ▲▲ ここまで ▲▲ -->
+      </div>
+
+      <div class="panel" style="grid-column: 1 / -1;">
+        <h2>このページ内一覧（同じデータをフィルター）</h2>
+        <div id="list" class="cards">読み込み中…</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 年齢ゲート -->
+  <div id="ageGate" class="modal" aria-hidden="true">
+    <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="ageTitle">
+      <h3 id="ageTitle">年齢確認</h3>
+      <p>本サイトはR18情報を含む可能性があります。18歳以上ですか？</p>
+      <div class="modal__actions">
+        <button id="ageYes" class="btn primary" type="button">はい（18歳以上）</button>
+        <button id="ageNo" class="btn" type="button">いいえ</button>
+      </div>
+      <p class="small">※「R18を表示」をONにした場合のみR18が表示されます。</p>
+    </div>
+  </div>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>
