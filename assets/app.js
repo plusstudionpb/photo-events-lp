@@ -98,10 +98,14 @@ function passFilters(e){
 }
 
 function escapeHtml(str){
-  return (str ?? "").toString()
-    .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-    .replaceAll('"',"&quot;").replaceAll("'","&#039;");
+  return String(str ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
+
 
 function cardHTML(e){
   const isR18 = e.rating === "r18";
