@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-16 21:51",
+  "last_updated": "2025-12-16 22:40",
   "items": [
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2025-12-17T07:33:46+09:00",
+      "start_date": "2025-12-16",
+      "start_ts": 1765924426,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -167,27 +188,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2025-12-16T21:43:01+09:00",
-      "start_date": "2025-12-16",
-      "start_ts": 1765888981,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
