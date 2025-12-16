@@ -15,10 +15,14 @@ const updatedEl = document.getElementById("u");
 
 function norm(s){ return (s ?? "").toString().toLowerCase(); }
 function escapeHtml(str){
-  return (str ?? "").toString()
-    .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-    .replaceAll('"',"&quot;").replaceAll("'","&#039;");
+  return String(str ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
+
 
 function popKey(id){ return `pop_${id}`; }
 function getPop(id){ return Number(localStorage.getItem(popKey(id)) || "0"); }
