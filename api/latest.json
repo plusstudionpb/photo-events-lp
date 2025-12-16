@@ -1,12 +1,54 @@
 {
-  "last_updated": "2025-12-16 01:26",
+  "last_updated": "2025-12-16 03:53",
   "items": [
+    {
+      "id": "409a7f8261c0",
+      "title": "スタジオいちごはうす撮影会",
+      "date": "2025-12-16T12:26:37+09:00",
+      "start_date": "2025-12-16",
+      "start_ts": 1765855597,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://strawberryhouse.jp/schedule.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "1a7c28f85d6d",
+      "title": "PLAYZONE",
+      "date": "2025-12-16T11:10:08+09:00",
+      "start_date": "2025-12-16",
+      "start_ts": 1765851008,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://playzone.jp/pc/schedule/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-16T07:29:21+09:00",
-      "start_date": "2025-12-15",
-      "start_ts": 1765837761,
+      "date": "2025-12-16T10:33:05+09:00",
+      "start_date": "2025-12-16",
+      "start_ts": 1765848785,
       "pref": "",
       "city": "",
       "venue": "",
@@ -317,27 +359,6 @@
       ]
     },
     {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2025-12-15T16:39:33+09:00",
-      "start_date": "2025-12-15",
-      "start_ts": 1765784373,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "583c0146d122",
       "title": "newtype撮影会",
       "date": "2025-12-15T12:16:48+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "68dcbaa233ae",
-      "title": "撮影会 viewit",
-      "date": "2025-12-15T07:35:32+09:00",
-      "start_date": "2025-12-14",
-      "start_ts": 1765751732,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.viewit.co.jp/",
       "rating": "all",
       "genres": [
         "other"
