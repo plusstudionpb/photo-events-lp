@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-17 13:48",
+  "last_updated": "2025-12-17 14:00",
   "items": [
+    {
+      "id": "0e11a75a1318",
+      "title": "アンセム",
+      "date": "2025-12-17T22:58:56+09:00",
+      "start_date": "2025-12-17",
+      "start_ts": 1765979936,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.anthem.co.jp/index2.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7b0cc095cf34",
-      "title": "フレッシュ　企画型撮影会",
-      "date": "2025-12-16T21:41:49+09:00",
-      "start_date": "2025-12-16",
-      "start_ts": 1765888909,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/project/",
       "rating": "all",
       "genres": [
         "other"
