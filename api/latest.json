@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-17 09:52",
+  "last_updated": "2025-12-17 10:52",
   "items": [
+    {
+      "id": "2f74c6925ef5",
+      "title": "GirlsPhotoSession / GPS撮影会",
+      "date": "2025-12-17T19:17:45+09:00",
+      "start_date": "2025-12-17",
+      "start_ts": 1765966665,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/girls-photo-session/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "be12cf7524b8",
-      "title": "Studio Still",
-      "date": "2025-12-16T16:25:53+09:00",
-      "start_date": "2025-12-16",
-      "start_ts": 1765869953,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio-still.net/still/event/sessions/index.html",
       "rating": "all",
       "genres": [
         "other"
