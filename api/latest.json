@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-12-19 15:46",
+  "last_updated": "2025-12-19 15:58",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2025-12-20T00:54:18+09:00",
+      "start_date": "2025-12-19",
+      "start_ts": 1766159658,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2025-12-20T00:49:34+09:00",
+      "start_date": "2025-12-19",
+      "start_ts": 1766159374,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e36903a2fa73",
       "title": "シフォン撮影会",
@@ -212,27 +254,6 @@
       ]
     },
     {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-19T21:50:50+09:00",
-      "start_date": "2025-12-19",
-      "start_ts": 1766148650,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "2d87f87633b6",
       "title": "スタジオモーメント撮影会",
       "date": "2025-12-19T21:01:14+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "fb399d9c5d94",
-      "title": "トラベリー撮影会",
-      "date": "2025-12-19T05:09:36+09:00",
-      "start_date": "2025-12-18",
-      "start_ts": 1766088576,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
       "rating": "all",
       "genres": [
         "other"
