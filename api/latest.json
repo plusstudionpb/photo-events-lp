@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-12-19 09:47",
+  "last_updated": "2025-12-19 10:00",
   "items": [
+    {
+      "id": "c649ab82144a",
+      "title": "フレッシュ　屋外大撮影会",
+      "date": "2025-12-19T18:54:42+09:00",
+      "start_date": "2025-12-19",
+      "start_ts": 1766138082,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/outdoor/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2025-12-19T18:50:36+09:00",
+      "start_date": "2025-12-19",
+      "start_ts": 1766137836,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "15f512897cba",
       "title": "はなまる撮影会",
@@ -34,27 +76,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-19T15:06:07+09:00",
-      "start_date": "2025-12-19",
-      "start_ts": 1766124367,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bimage.client.jp/tokyo-1.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "5c0c8a5c1d2c",
-      "title": "スタイルコーポレーション",
-      "date": "2025-12-18T17:39:01+09:00",
-      "start_date": "2025-12-18",
-      "start_ts": 1766047141,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.stylecorporation.com/schedule/index.html",
       "rating": "all",
       "genres": [
         "other"
