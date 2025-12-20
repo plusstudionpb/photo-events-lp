@@ -1,18 +1,39 @@
 {
-  "last_updated": "2025-12-20 09:59",
+  "last_updated": "2025-12-20 10:42",
   "items": [
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-20T16:03:59+09:00",
+      "date": "2025-12-20T19:06:46+09:00",
       "start_date": "2025-12-20",
-      "start_ts": 1766214239,
+      "start_ts": 1766225206,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2025-12-20T19:05:26+09:00",
+      "start_date": "2025-12-20",
+      "start_ts": 1766225126,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2025-12-19T18:54:42+09:00",
-      "start_date": "2025-12-19",
-      "start_ts": 1766138082,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
       "rating": "all",
       "genres": [
         "other"
