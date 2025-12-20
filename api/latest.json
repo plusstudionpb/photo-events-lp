@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-20 18:51",
+  "last_updated": "2025-12-20 19:26",
   "items": [
     {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2025-12-21T03:12:05+09:00",
+      "id": "2a69e70b5f04",
+      "title": "Pulchra撮影会",
+      "date": "2025-12-21T04:18:50+09:00",
       "start_date": "2025-12-20",
-      "start_ts": 1766254325,
+      "start_ts": 1766258330,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
+      "official_url": "http://ameblo.jp/kokuchi/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-21T01:13:39+09:00",
+      "date": "2025-12-21T04:18:02+09:00",
       "start_date": "2025-12-20",
-      "start_ts": 1766247219,
+      "start_ts": 1766258282,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2025-12-21T03:12:05+09:00",
+      "start_date": "2025-12-20",
+      "start_ts": 1766254325,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2025-12-19T23:30:26+09:00",
-      "start_date": "2025-12-19",
-      "start_ts": 1766154626,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
