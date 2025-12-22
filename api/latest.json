@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-22 08:58",
+  "last_updated": "2025-12-22 09:53",
   "items": [
     {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-22T17:31:26+09:00",
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2025-12-22T18:49:20+09:00",
       "start_date": "2025-12-22",
-      "start_ts": 1766392286,
+      "start_ts": 1766396960,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
+      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2025-12-22T15:11:45+09:00",
+      "date": "2025-12-22T18:39:37+09:00",
       "start_date": "2025-12-22",
-      "start_ts": 1766383905,
+      "start_ts": 1766396377,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2025-12-22T17:31:26+09:00",
+      "start_date": "2025-12-22",
+      "start_ts": 1766392286,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://playzone.jp/pc/schedule/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2025-12-21T18:00:22+09:00",
-      "start_date": "2025-12-21",
-      "start_ts": 1766307622,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
       "rating": "all",
       "genres": [
         "other"
