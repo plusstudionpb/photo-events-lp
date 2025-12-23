@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-12-23 19:59",
+  "last_updated": "2025-12-23 20:43",
   "items": [
+    {
+      "id": "09f07a8070e5",
+      "title": "たんぽぽ撮影会",
+      "date": "2025-12-24T05:37:59+09:00",
+      "start_date": "2025-12-23",
+      "start_ts": 1766522279,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://newpiece-inc.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "4694d206e58a",
+      "title": "Cutie Factory STUDIO",
+      "date": "2025-12-24T05:36:20+09:00",
+      "start_date": "2025-12-23",
+      "start_ts": 1766522180,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio.cutie-factory.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cb139c78323",
       "title": "東京Lily",
@@ -338,27 +380,6 @@
       ]
     },
     {
-      "id": "09f07a8070e5",
-      "title": "たんぽぽ撮影会",
-      "date": "2025-12-23T19:01:25+09:00",
-      "start_date": "2025-12-23",
-      "start_ts": 1766484085,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://newpiece-inc.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "a8ad7d400bd7",
       "title": "FESTASOLE",
       "date": "2025-12-23T17:42:41+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.search-one.jp/schedule/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2025-12-23T12:36:12+09:00",
-      "start_date": "2025-12-23",
-      "start_ts": 1766460972,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
       "rating": "all",
       "genres": [
         "other"
