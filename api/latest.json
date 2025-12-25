@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-25 15:57",
+  "last_updated": "2025-12-25 16:52",
   "items": [
     {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2025-12-25T23:53:35+09:00",
+      "id": "68dcbaa233ae",
+      "title": "撮影会 viewit",
+      "date": "2025-12-26T01:45:31+09:00",
       "start_date": "2025-12-25",
-      "start_ts": 1766674415,
+      "start_ts": 1766681131,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
+      "official_url": "http://www.viewit.co.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2025-12-25T22:31:11+09:00",
+      "date": "2025-12-26T01:37:38+09:00",
       "start_date": "2025-12-25",
-      "start_ts": 1766669471,
+      "start_ts": 1766680658,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2025-12-25T23:53:35+09:00",
+      "start_date": "2025-12-25",
+      "start_ts": 1766674415,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.emotion-c.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2025-12-25T02:14:25+09:00",
-      "start_date": "2025-12-24",
-      "start_ts": 1766596465,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
       "rating": "all",
       "genres": [
         "other"
