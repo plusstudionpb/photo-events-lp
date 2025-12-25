@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-25 17:51",
+  "last_updated": "2025-12-25 19:00",
   "items": [
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2025-12-26T03:26:54+09:00",
+      "start_date": "2025-12-25",
+      "start_ts": 1766687214,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "68dcbaa233ae",
       "title": "撮影会 viewit",
@@ -160,27 +181,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2025-12-25T16:09:24+09:00",
-      "start_date": "2025-12-25",
-      "start_ts": 1766646564,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
       "rating": "all",
       "genres": [
         "other"
