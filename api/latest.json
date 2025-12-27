@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-27 21:47",
+  "last_updated": "2025-12-27 21:59",
   "items": [
+    {
+      "id": "be12cf7524b8",
+      "title": "Studio Still",
+      "date": "2025-12-28T06:48:36+09:00",
+      "start_date": "2025-12-27",
+      "start_ts": 1766872116,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio-still.net/still/event/sessions/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2a69e70b5f04",
       "title": "Pulchra撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/girls-photo-session/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "dec0842bfe87",
-      "title": "momo撮影会",
-      "date": "2025-12-27T06:06:46+09:00",
-      "start_date": "2025-12-26",
-      "start_ts": 1766783206,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://momo-camera.com/",
       "rating": "all",
       "genres": [
         "other"
