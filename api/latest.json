@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-27 13:42",
+  "last_updated": "2025-12-27 13:56",
   "items": [
+    {
+      "id": "e64b0f2be48c",
+      "title": "スタジオスティル",
+      "date": "2025-12-27T22:54:46+09:00",
+      "start_date": "2025-12-27",
+      "start_ts": 1766843686,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studiostill.cool.ne.jp/event/part1.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://momo-camera.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2025-12-26T19:55:25+09:00",
-      "start_date": "2025-12-26",
-      "start_ts": 1766746525,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
