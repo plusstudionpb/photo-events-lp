@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-12-30 08:02",
+  "last_updated": "2025-12-30 09:03",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2025-12-30T17:30:28+09:00",
+      "start_date": "2025-12-30",
+      "start_ts": 1767083428,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/project/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a4ab1ac23141",
-      "title": "撮影会ならサーチワン",
-      "date": "2025-12-29T00:19:33+09:00",
-      "start_date": "2025-12-28",
-      "start_ts": 1766935173,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.search-one.jp/schedule/",
       "rating": "all",
       "genres": [
         "other"
