@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-01-01 21:50",
+  "last_updated": "2026-01-01 22:42",
   "items": [
     {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-01-02T06:41:10+09:00",
+      "id": "fb399d9c5d94",
+      "title": "トラベリー撮影会",
+      "date": "2026-01-02T07:20:16+09:00",
       "start_date": "2026-01-01",
-      "start_ts": 1767303670,
+      "start_ts": 1767306016,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
+      "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-01-02T03:59:53+09:00",
+      "date": "2026-01-02T07:02:42+09:00",
       "start_date": "2026-01-01",
-      "start_ts": 1767293993,
+      "start_ts": 1767304962,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-01-02T06:41:10+09:00",
+      "start_date": "2026-01-01",
+      "start_ts": 1767303670,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a0fba1a141f",
-      "title": "ZOOM撮影会",
-      "date": "2025-12-31T23:58:22+09:00",
-      "start_date": "2025-12-31",
-      "start_ts": 1767193102,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.st-zoom.com/",
       "rating": "all",
       "genres": [
         "other"
