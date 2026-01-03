@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-03 15:55",
+  "last_updated": "2026-01-03 16:48",
   "items": [
+    {
+      "id": "2db40c4a8a54",
+      "title": "Greif撮影会",
+      "date": "2026-01-04T01:18:56+09:00",
+      "start_date": "2026-01-03",
+      "start_ts": 1767457136,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "409a7f8261c0",
       "title": "スタジオいちごはうす撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-01-02T06:41:10+09:00",
-      "start_date": "2026-01-01",
-      "start_ts": 1767303670,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
