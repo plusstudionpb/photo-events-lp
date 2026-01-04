@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-04 22:57",
+  "last_updated": "2026-01-04 23:39",
   "items": [
+    {
+      "id": "2d87f87633b6",
+      "title": "スタジオモーメント撮影会",
+      "date": "2026-01-05T08:03:35+09:00",
+      "start_date": "2026-01-04",
+      "start_ts": 1767567815,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "a6ae879e4be3",
       "title": "ツインリンクもてぎ",
@@ -328,27 +349,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.st-zoom.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2d87f87633b6",
-      "title": "スタジオモーメント撮影会",
-      "date": "2026-01-04T02:10:05+09:00",
-      "start_date": "2026-01-03",
-      "start_ts": 1767460205,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://st-moment.com/",
       "rating": "all",
       "genres": [
         "other"
