@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-05 16:55",
+  "last_updated": "2026-01-05 17:48",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-01-06T02:28:01+09:00",
+      "start_date": "2026-01-05",
+      "start_ts": 1767634081,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-01-05T13:16:12+09:00",
-      "start_date": "2026-01-05",
-      "start_ts": 1767586572,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
