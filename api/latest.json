@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-05 07:59",
+  "last_updated": "2026-01-05 09:03",
   "items": [
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2026-01-05T17:52:29+09:00",
+      "start_date": "2026-01-05",
+      "start_ts": 1767603149,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "1a7c28f85d6d",
+      "title": "PLAYZONE",
+      "date": "2026-01-05T16:59:33+09:00",
+      "start_date": "2026-01-05",
+      "start_ts": 1767599973,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://playzone.jp/pc/schedule/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio-still.net/still/event/sessions/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a0fba1a141f",
-      "title": "ZOOM撮影会",
-      "date": "2026-01-04T02:19:06+09:00",
-      "start_date": "2026-01-03",
-      "start_ts": 1767460746,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.st-zoom.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2db40c4a8a54",
-      "title": "Greif撮影会",
-      "date": "2026-01-04T01:18:56+09:00",
-      "start_date": "2026-01-03",
-      "start_ts": 1767457136,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
       "rating": "all",
       "genres": [
         "other"
