@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-06 03:58",
+  "last_updated": "2026-01-06 05:03",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-01-06T13:51:39+09:00",
+      "start_date": "2026-01-06",
+      "start_ts": 1767675099,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "be12cf7524b8",
+      "title": "Studio Still",
+      "date": "2026-01-06T13:37:09+09:00",
+      "start_date": "2026-01-06",
+      "start_ts": 1767674229,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio-still.net/still/event/sessions/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "40f217044610",
       "title": "ODAIBA撮影会",
@@ -13,27 +55,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-01-06T10:50:31+09:00",
-      "start_date": "2026-01-06",
-      "start_ts": 1767664231,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/special/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-01-05T18:40:24+09:00",
-      "start_date": "2026-01-05",
-      "start_ts": 1767606024,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
       "rating": "all",
       "genres": [
         "other"
