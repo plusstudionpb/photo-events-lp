@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-08 15:53",
+  "last_updated": "2026-01-08 17:03",
   "items": [
+    {
+      "id": "2a69e70b5f04",
+      "title": "Pulchra撮影会",
+      "date": "2026-01-09T02:02:23+09:00",
+      "start_date": "2026-01-08",
+      "start_ts": 1767891743,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/kokuchi/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-01-09T01:58:47+09:00",
+      "start_date": "2026-01-08",
+      "start_ts": 1767891527,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "409a7f8261c0",
       "title": "スタジオいちごはうす撮影会",
@@ -275,27 +317,6 @@
       ]
     },
     {
-      "id": "2a69e70b5f04",
-      "title": "Pulchra撮影会",
-      "date": "2026-01-08T16:03:55+09:00",
-      "start_date": "2026-01-08",
-      "start_ts": 1767855835,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "1a0fba1a141f",
       "title": "ZOOM撮影会",
       "date": "2026-01-08T14:43:25+09:00",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-01-08T00:46:16+09:00",
-      "start_date": "2026-01-07",
-      "start_ts": 1767800776,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
