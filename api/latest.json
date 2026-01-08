@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-08 05:01",
+  "last_updated": "2026-01-08 05:52",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-01-08T14:43:25+09:00",
+      "start_date": "2026-01-08",
+      "start_ts": 1767851005,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2026-01-08T14:30:23+09:00",
+      "start_date": "2026-01-08",
+      "start_ts": 1767850223,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-01-07T17:16:48+09:00",
-      "start_date": "2026-01-07",
-      "start_ts": 1767773808,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-01-07T08:25:56+09:00",
-      "start_date": "2026-01-06",
-      "start_ts": 1767741956,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
       "rating": "all",
       "genres": [
         "other"
