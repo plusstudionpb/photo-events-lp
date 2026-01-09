@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-09 19:49",
+  "last_updated": "2026-01-09 20:00",
   "items": [
+    {
+      "id": "c649ab82144a",
+      "title": "フレッシュ　屋外大撮影会",
+      "date": "2026-01-10T04:51:01+09:00",
+      "start_date": "2026-01-09",
+      "start_ts": 1767988261,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/outdoor/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a7c28f85d6d",
-      "title": "PLAYZONE",
-      "date": "2026-01-08T21:32:44+09:00",
-      "start_date": "2026-01-08",
-      "start_ts": 1767875564,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://playzone.jp/pc/schedule/",
       "rating": "all",
       "genres": [
         "other"
