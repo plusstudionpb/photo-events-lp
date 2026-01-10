@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-10 21:34",
+  "last_updated": "2026-01-10 21:48",
   "items": [
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-01-11T06:45:25+09:00",
+      "start_date": "2026-01-10",
+      "start_ts": 1768081525,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-01-11T06:38:15+09:00",
+      "start_date": "2026-01-10",
+      "start_ts": 1768081095,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -377,48 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-01-09T20:32:09+09:00",
-      "start_date": "2026-01-09",
-      "start_ts": 1767958329,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-01-09T16:44:13+09:00",
-      "start_date": "2026-01-09",
-      "start_ts": 1767944653,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
