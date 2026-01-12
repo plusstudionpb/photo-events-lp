@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-12 05:48",
+  "last_updated": "2026-01-12 07:03",
   "items": [
+    {
+      "id": "c649ab82144a",
+      "title": "フレッシュ　屋外大撮影会",
+      "date": "2026-01-12T15:33:21+09:00",
+      "start_date": "2026-01-12",
+      "start_ts": 1768199601,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/outdoor/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "dec0842bfe87",
+      "title": "momo撮影会",
+      "date": "2026-01-12T14:59:00+09:00",
+      "start_date": "2026-01-12",
+      "start_ts": 1768197540,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://momo-camera.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-01-11T08:14:04+09:00",
-      "start_date": "2026-01-10",
-      "start_ts": 1768086844,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e64b0f2be48c",
-      "title": "スタジオスティル",
-      "date": "2026-01-11T08:02:03+09:00",
-      "start_date": "2026-01-10",
-      "start_ts": 1768086123,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studiostill.cool.ne.jp/event/part1.htm",
       "rating": "all",
       "genres": [
         "other"
