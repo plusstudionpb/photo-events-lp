@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-14 17:41",
+  "last_updated": "2026-01-14 17:59",
   "items": [
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-01-15T02:55:42+09:00",
+      "start_date": "2026-01-14",
+      "start_ts": 1768413342,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.emotion-c.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2f74c6925ef5",
-      "title": "GirlsPhotoSession / GPS撮影会",
-      "date": "2026-01-13T22:09:12+09:00",
-      "start_date": "2026-01-13",
-      "start_ts": 1768309752,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/girls-photo-session/",
       "rating": "all",
       "genres": [
         "other"
