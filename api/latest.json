@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-15 07:41",
+  "last_updated": "2026-01-15 07:57",
   "items": [
+    {
+      "id": "2f97b6e6fbb1",
+      "title": "xxcross 2.5次元 コスプレ撮影会",
+      "date": "2026-01-15T16:54:09+09:00",
+      "start_date": "2026-01-15",
+      "start_ts": 1768463649,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://xxcross.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7028a6c5ce75",
+      "title": "ハートフル撮影会",
+      "date": "2026-01-15T16:44:39+09:00",
+      "start_date": "2026-01-15",
+      "start_ts": 1768463079,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/heartful01/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2d87f87633b6",
       "title": "スタジオモーメント撮影会",
@@ -212,27 +254,6 @@
       ]
     },
     {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-01-15T06:38:45+09:00",
-      "start_date": "2026-01-14",
-      "start_ts": 1768426725,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "3cb139c78323",
       "title": "東京Lily",
       "date": "2026-01-15T02:55:42+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-01-14T09:42:34+09:00",
-      "start_date": "2026-01-14",
-      "start_ts": 1768351354,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
