@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-15 09:59",
+  "last_updated": "2026-01-15 10:37",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-01-15T19:08:10+09:00",
+      "start_date": "2026-01-15",
+      "start_ts": 1768471690,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2db40c4a8a54",
       "title": "Greif撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.search-one.jp/schedule/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "74a1c14d672c",
-      "title": "TWINKLE撮影会",
-      "date": "2026-01-14T11:32:15+09:00",
-      "start_date": "2026-01-14",
-      "start_ts": 1768357935,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://twinkle-s.sakura.ne.jp/home.html",
       "rating": "all",
       "genres": [
         "other"
