@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 07:57",
+  "last_updated": "2026-01-16 08:40",
   "items": [
     {
       "id": "7028a6c5ce75",
@@ -412,6 +412,27 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.viewit.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "d403c6d66c7d",
+      "title": "ワンちゃん撮影会",
+      "date": "2026-01-03T01:00:00+09:00",
+      "start_date": "2026-01-02",
+      "start_ts": 1767369600,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "フォトハウスシマカゲ",
+      "official_url": "https://photo-shimakage.com/info/6605481",
       "rating": "all",
       "genres": [
         "other"
