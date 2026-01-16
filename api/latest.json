@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-16 16:35",
+  "last_updated": "2026-01-16 16:59",
   "items": [
+    {
+      "id": "a4ab1ac23141",
+      "title": "撮影会ならサーチワン",
+      "date": "2026-01-17T01:52:58+09:00",
+      "start_date": "2026-01-16",
+      "start_ts": 1768582378,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.search-one.jp/schedule/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-01-17T01:44:23+09:00",
+      "start_date": "2026-01-16",
+      "start_ts": 1768581863,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0e13c8ae8a0c",
       "title": "スタジオガーネット",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-01-16T00:27:09+09:00",
-      "start_date": "2026-01-15",
-      "start_ts": 1768490829,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "be12cf7524b8",
-      "title": "Studio Still",
-      "date": "2026-01-16T00:16:32+09:00",
-      "start_date": "2026-01-15",
-      "start_ts": 1768490192,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio-still.net/still/event/sessions/index.html",
       "rating": "all",
       "genres": [
         "other"
