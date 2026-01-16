@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-16 06:48",
+  "last_updated": "2026-01-16 07:14",
   "items": [
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-01-16T16:00:05+09:00",
+      "start_date": "2026-01-16",
+      "start_ts": 1768546805,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e10dcdee1da7",
       "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.st-zoom.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2db40c4a8a54",
-      "title": "Greif撮影会",
-      "date": "2026-01-15T18:53:57+09:00",
-      "start_date": "2026-01-15",
-      "start_ts": 1768470837,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
       "rating": "all",
       "genres": [
         "other"
