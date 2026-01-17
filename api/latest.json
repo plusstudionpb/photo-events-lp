@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-17 22:46",
+  "last_updated": "2026-01-17 22:58",
   "items": [
+    {
+      "id": "409a7f8261c0",
+      "title": "スタジオいちごはうす撮影会",
+      "date": "2026-01-18T07:48:02+09:00",
+      "start_date": "2026-01-17",
+      "start_ts": 1768690082,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://strawberryhouse.jp/schedule.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a4ab1ac23141",
-      "title": "撮影会ならサーチワン",
-      "date": "2026-01-17T01:52:58+09:00",
-      "start_date": "2026-01-16",
-      "start_ts": 1768582378,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.search-one.jp/schedule/",
       "rating": "all",
       "genres": [
         "other"
