@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-19 05:00",
+  "last_updated": "2026-01-19 05:47",
   "items": [
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-01-19T14:30:46+09:00",
+      "start_date": "2026-01-19",
+      "start_ts": 1768800646,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-01-19T14:06:05+09:00",
+      "start_date": "2026-01-19",
+      "start_ts": 1768799165,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0e13c8ae8a0c",
       "title": "スタジオガーネット",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-01-18T06:34:09+09:00",
-      "start_date": "2026-01-17",
-      "start_ts": 1768685649,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "40f217044610",
-      "title": "ODAIBA撮影会",
-      "date": "2026-01-18T06:33:48+09:00",
-      "start_date": "2026-01-17",
-      "start_ts": 1768685628,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bluebus.jp/event/satsueikai/",
       "rating": "all",
       "genres": [
         "other"
