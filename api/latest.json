@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-20 22:31",
+  "last_updated": "2026-01-20 22:50",
   "items": [
+    {
+      "id": "be12cf7524b8",
+      "title": "Studio Still",
+      "date": "2026-01-21T07:45:44+09:00",
+      "start_date": "2026-01-20",
+      "start_ts": 1768949144,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio-still.net/still/event/sessions/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ex-ps.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2026-01-19T05:17:14+09:00",
-      "start_date": "2026-01-18",
-      "start_ts": 1768767434,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
       "rating": "all",
       "genres": [
         "other"
