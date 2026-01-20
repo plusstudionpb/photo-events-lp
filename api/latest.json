@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-20 22:50",
+  "last_updated": "2026-01-20 23:27",
   "items": [
+    {
+      "id": "dec0842bfe87",
+      "title": "momo撮影会",
+      "date": "2026-01-21T08:24:31+09:00",
+      "start_date": "2026-01-20",
+      "start_ts": 1768951471,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://momo-camera.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-01-21T07:55:45+09:00",
+      "start_date": "2026-01-20",
+      "start_ts": 1768949745,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "be12cf7524b8",
       "title": "Studio Still",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-01-19T11:54:53+09:00",
-      "start_date": "2026-01-19",
-      "start_ts": 1768791293,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "b7f04b721d40",
-      "title": "エックス撮影会",
-      "date": "2026-01-19T06:41:00+09:00",
-      "start_date": "2026-01-18",
-      "start_ts": 1768772460,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ex-ps.net/",
       "rating": "all",
       "genres": [
         "other"
