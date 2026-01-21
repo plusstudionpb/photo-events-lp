@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-21 15:48",
+  "last_updated": "2026-01-21 16:20",
   "items": [
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-01-22T01:13:30+09:00",
+      "start_date": "2026-01-21",
+      "start_ts": 1769012010,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8b2738f1614a",
       "title": "AV女優個人撮影会アミーゴ",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2a69e70b5f04",
-      "title": "Pulchra撮影会",
-      "date": "2026-01-20T22:53:41+09:00",
-      "start_date": "2026-01-20",
-      "start_ts": 1768917221,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/kokuchi/",
       "rating": "all",
       "genres": [
         "other"
