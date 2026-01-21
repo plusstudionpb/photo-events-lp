@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-21 05:56",
+  "last_updated": "2026-01-21 06:48",
   "items": [
+    {
+      "id": "c649ab82144a",
+      "title": "フレッシュ　屋外大撮影会",
+      "date": "2026-01-21T15:10:02+09:00",
+      "start_date": "2026-01-21",
+      "start_ts": 1768975802,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/outdoor/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-01-19T17:00:33+09:00",
-      "start_date": "2026-01-19",
-      "start_ts": 1768809633,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
