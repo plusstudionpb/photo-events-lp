@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-21 07:46",
+  "last_updated": "2026-01-21 07:59",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-01-21T16:53:27+09:00",
+      "start_date": "2026-01-21",
+      "start_ts": 1768982007,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e06f9ae6c57a",
       "title": "asフォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c989da68759f",
-      "title": "トップカメラ",
-      "date": "2026-01-20T00:34:34+09:00",
-      "start_date": "2026-01-19",
-      "start_ts": 1768836874,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.topcamera.co.jp/",
       "rating": "all",
       "genres": [
         "other"
