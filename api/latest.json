@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-22 06:49",
+  "last_updated": "2026-01-22 07:17",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-01-22T16:02:37+09:00",
+      "start_date": "2026-01-22",
+      "start_ts": 1769065357,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "409a7f8261c0",
       "title": "スタジオいちごはうす撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "dec0842bfe87",
-      "title": "momo撮影会",
-      "date": "2026-01-21T08:24:31+09:00",
-      "start_date": "2026-01-20",
-      "start_ts": 1768951471,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://momo-camera.com/",
       "rating": "all",
       "genres": [
         "other"
