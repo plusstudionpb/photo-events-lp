@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-23 15:44",
+  "last_updated": "2026-01-23 16:01",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-01-24T00:51:02+09:00",
+      "start_date": "2026-01-23",
+      "start_ts": 1769183462,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.emotion-c.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-01-23T04:58:21+09:00",
-      "start_date": "2026-01-22",
-      "start_ts": 1769111901,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
       "rating": "all",
       "genres": [
         "other"
