@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-23 17:16",
+  "last_updated": "2026-01-23 17:42",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-01-24T02:32:56+09:00",
+      "start_date": "2026-01-23",
+      "start_ts": 1769189576,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-01-23T13:54:58+09:00",
-      "start_date": "2026-01-23",
-      "start_ts": 1769144098,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
       "rating": "all",
       "genres": [
         "other"
