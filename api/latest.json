@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-24 09:28",
+  "last_updated": "2026-01-24 09:45",
   "items": [
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-01-24T18:31:51+09:00",
+      "start_date": "2026-01-24",
+      "start_ts": 1769247111,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "4694d206e58a",
-      "title": "Cutie Factory STUDIO",
-      "date": "2026-01-23T20:00:33+09:00",
-      "start_date": "2026-01-23",
-      "start_ts": 1769166033,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio.cutie-factory.com/",
       "rating": "all",
       "genres": [
         "other"
