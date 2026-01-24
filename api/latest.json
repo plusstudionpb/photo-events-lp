@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-01-23 23:51",
+  "last_updated": "2026-01-24 02:00",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-01-24T09:55:13+09:00",
+      "start_date": "2026-01-24",
+      "start_ts": 1769216113,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "a6ae879e4be3",
+      "title": "ツインリンクもてぎ",
+      "date": "2026-01-24T09:46:56+09:00",
+      "start_date": "2026-01-24",
+      "start_ts": 1769215616,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.twinring.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "2a69e70b5f04",
+      "title": "Pulchra撮影会",
+      "date": "2026-01-24T09:39:28+09:00",
+      "start_date": "2026-01-24",
+      "start_ts": 1769215168,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/kokuchi/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e10dcdee1da7",
       "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
@@ -13,27 +76,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://melty.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-01-24T06:49:03+09:00",
-      "start_date": "2026-01-23",
-      "start_ts": 1769204943,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -254,27 +296,6 @@
       ]
     },
     {
-      "id": "2a69e70b5f04",
-      "title": "Pulchra撮影会",
-      "date": "2026-01-23T19:24:35+09:00",
-      "start_date": "2026-01-23",
-      "start_ts": 1769163875,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
       "date": "2026-01-23T19:14:33+09:00",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8ef961918c8d",
-      "title": "フレッシュ　個人撮影会",
-      "date": "2026-01-23T18:14:13+09:00",
-      "start_date": "2026-01-23",
-      "start_ts": 1769159653,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/premium/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
