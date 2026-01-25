@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-25 17:22",
+  "last_updated": "2026-01-25 17:43",
   "items": [
+    {
+      "id": "74a1c14d672c",
+      "title": "TWINKLE撮影会",
+      "date": "2026-01-26T02:35:12+09:00",
+      "start_date": "2026-01-25",
+      "start_ts": 1769362512,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://twinkle-s.sakura.ne.jp/home.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e06f9ae6c57a",
       "title": "asフォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-01-25T03:36:53+09:00",
-      "start_date": "2026-01-24",
-      "start_ts": 1769279813,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
       "rating": "all",
       "genres": [
         "other"
