@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-25 04:59",
+  "last_updated": "2026-01-25 05:37",
   "items": [
+    {
+      "id": "c989da68759f",
+      "title": "トップカメラ",
+      "date": "2026-01-25T14:07:34+09:00",
+      "start_date": "2026-01-25",
+      "start_ts": 1769317654,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.topcamera.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2a69e70b5f04",
       "title": "Pulchra撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "68dcbaa233ae",
-      "title": "撮影会 viewit",
-      "date": "2026-01-24T11:28:59+09:00",
-      "start_date": "2026-01-24",
-      "start_ts": 1769221739,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.viewit.co.jp/",
       "rating": "all",
       "genres": [
         "other"
