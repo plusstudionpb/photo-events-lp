@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-26 14:33",
+  "last_updated": "2026-01-26 14:59",
   "items": [
+    {
+      "id": "9d39a4c96830",
+      "title": "美マージュ",
+      "date": "2026-01-26T23:45:35+09:00",
+      "start_date": "2026-01-26",
+      "start_ts": 1769438735,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/tokyo-1.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "68dcbaa233ae",
       "title": "撮影会 viewit",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2a69e70b5f04",
-      "title": "Pulchra撮影会",
-      "date": "2026-01-25T19:47:37+09:00",
-      "start_date": "2026-01-25",
-      "start_ts": 1769338057,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/kokuchi/",
       "rating": "all",
       "genres": [
         "other"
