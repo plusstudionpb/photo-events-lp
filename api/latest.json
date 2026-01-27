@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-27 02:32",
+  "last_updated": "2026-01-27 04:01",
   "items": [
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-01-27T11:42:25+09:00",
+      "start_date": "2026-01-27",
+      "start_ts": 1769481745,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7b0cc095cf34",
+      "title": "フレッシュ　企画型撮影会",
+      "date": "2026-01-27T11:38:27+09:00",
+      "start_date": "2026-01-27",
+      "start_ts": 1769481507,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/project/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio-still.net/still/event/sessions/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-01-26T04:20:06+09:00",
-      "start_date": "2026-01-25",
-      "start_ts": 1769368806,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "74a1c14d672c",
-      "title": "TWINKLE撮影会",
-      "date": "2026-01-26T02:35:12+09:00",
-      "start_date": "2026-01-25",
-      "start_ts": 1769362512,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://twinkle-s.sakura.ne.jp/home.html",
       "rating": "all",
       "genres": [
         "other"
