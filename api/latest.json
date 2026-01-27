@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-27 04:56",
+  "last_updated": "2026-01-27 05:34",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-01-27T14:32:12+09:00",
+      "start_date": "2026-01-27",
+      "start_ts": 1769491932,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "583c0146d122",
       "title": "newtype撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "be12cf7524b8",
-      "title": "Studio Still",
-      "date": "2026-01-26T09:22:30+09:00",
-      "start_date": "2026-01-26",
-      "start_ts": 1769386950,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio-still.net/still/event/sessions/index.html",
       "rating": "all",
       "genres": [
         "other"
