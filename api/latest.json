@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-31 02:32",
+  "last_updated": "2026-01-31 04:17",
   "items": [
+    {
+      "id": "68dcbaa233ae",
+      "title": "撮影会 viewit",
+      "date": "2026-01-31T12:37:09+09:00",
+      "start_date": "2026-01-31",
+      "start_ts": 1769830629,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.viewit.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8ef961918c8d",
-      "title": "フレッシュ　個人撮影会",
-      "date": "2026-01-29T22:08:19+09:00",
-      "start_date": "2026-01-29",
-      "start_ts": 1769692099,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/premium/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
