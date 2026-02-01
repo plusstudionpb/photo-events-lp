@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-01 22:30",
+  "last_updated": "2026-02-01 22:55",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-02-02T07:50:30+09:00",
+      "start_date": "2026-02-01",
+      "start_ts": 1769986230,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "15f512897cba",
       "title": "はなまる撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7b0cc095cf34",
-      "title": "フレッシュ　企画型撮影会",
-      "date": "2026-01-31T22:12:46+09:00",
-      "start_date": "2026-01-31",
-      "start_ts": 1769865166,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/project/",
       "rating": "all",
       "genres": [
         "other"
