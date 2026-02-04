@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-04 18:01",
+  "last_updated": "2026-02-04 19:06",
   "items": [
+    {
+      "id": "2d87f87633b6",
+      "title": "スタジオモーメント撮影会",
+      "date": "2026-02-05T03:10:36+09:00",
+      "start_date": "2026-02-04",
+      "start_ts": 1770228636,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "a6ae879e4be3",
       "title": "ツインリンクもてぎ",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "9896238f28a2",
-      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-02-04T09:13:59+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770164039,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://pls1.jp/top/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
