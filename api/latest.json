@@ -1,18 +1,60 @@
 {
-  "last_updated": "2026-02-04 23:58",
+  "last_updated": "2026-02-05 02:49",
   "items": [
     {
-      "id": "e06f9ae6c57a",
-      "title": "asフォトセッション",
-      "date": "2026-02-05T08:15:15+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770246915,
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-02-05T10:23:56+09:00",
+      "start_date": "2026-02-05",
+      "start_ts": 1770254636,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.ashistar.jp/cont3/main.html",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9896238f28a2",
+      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
+      "date": "2026-02-05T10:14:35+09:00",
+      "start_date": "2026-02-05",
+      "start_ts": 1770254075,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://pls1.jp/top/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-02-05T10:03:26+09:00",
+      "start_date": "2026-02-05",
+      "start_ts": 1770253406,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +67,36 @@
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-02-05T06:35:07+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770240907,
+      "date": "2026-02-05T09:55:40+09:00",
+      "start_date": "2026-02-05",
+      "start_ts": 1770252940,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e06f9ae6c57a",
+      "title": "asフォトセッション",
+      "date": "2026-02-05T08:15:15+09:00",
+      "start_date": "2026-02-04",
+      "start_ts": 1770246915,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.ashistar.jp/cont3/main.html",
       "rating": "all",
       "genres": [
         "other"
@@ -62,27 +125,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-05T04:58:55+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770235135,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-02-04T15:54:54+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770188094,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "fb399d9c5d94",
-      "title": "トラベリー撮影会",
-      "date": "2026-02-04T15:31:20+09:00",
-      "start_date": "2026-02-04",
-      "start_ts": 1770186680,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
       "rating": "all",
       "genres": [
         "other"
