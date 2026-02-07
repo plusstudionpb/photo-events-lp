@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-07 11:55",
+  "last_updated": "2026-02-07 13:00",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-02-07T21:04:30+09:00",
+      "start_date": "2026-02-07",
+      "start_ts": 1770465870,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8ef961918c8d",
       "title": "フレッシュ　個人撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-02-06T22:43:09+09:00",
-      "start_date": "2026-02-06",
-      "start_ts": 1770385389,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
       "rating": "all",
       "genres": [
         "other"
