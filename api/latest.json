@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-08 20:34",
+  "last_updated": "2026-02-08 20:59",
   "items": [
+    {
+      "id": "b0b820d4053f",
+      "title": "フェスタソーレ（名古屋・大阪）",
+      "date": "2026-02-09T05:53:43+09:00",
+      "start_date": "2026-02-08",
+      "start_ts": 1770584023,
+      "pref": "大阪",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.festasole.com/sch_nagoya&osaka.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "409a7f8261c0",
       "title": "スタジオいちごはうす撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.festasole.com/main.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7b0cc095cf34",
-      "title": "フレッシュ　企画型撮影会",
-      "date": "2026-02-07T23:57:48+09:00",
-      "start_date": "2026-02-07",
-      "start_ts": 1770476268,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/project/",
       "rating": "all",
       "genres": [
         "other"
