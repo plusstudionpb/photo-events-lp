@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-02-10 14:07",
+  "last_updated": "2026-02-10 15:21",
   "items": [
+    {
+      "id": "2f97b6e6fbb1",
+      "title": "xxcross 2.5次元 コスプレ撮影会",
+      "date": "2026-02-10T23:53:30+09:00",
+      "start_date": "2026-02-10",
+      "start_ts": 1770735210,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://xxcross.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "09f07a8070e5",
+      "title": "たんぽぽ撮影会",
+      "date": "2026-02-10T23:31:50+09:00",
+      "start_date": "2026-02-10",
+      "start_ts": 1770733910,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://newpiece-inc.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -377,48 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "74a1c14d672c",
-      "title": "TWINKLE撮影会",
-      "date": "2026-02-10T00:16:00+09:00",
-      "start_date": "2026-02-09",
-      "start_ts": 1770650160,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://twinkle-s.sakura.ne.jp/home.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-02-09T14:06:27+09:00",
-      "start_date": "2026-02-09",
-      "start_ts": 1770613587,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
