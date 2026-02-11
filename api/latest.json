@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-11 20:24",
+  "last_updated": "2026-02-11 21:05",
   "items": [
+    {
+      "id": "2f97b6e6fbb1",
+      "title": "xxcross 2.5次元 コスプレ撮影会",
+      "date": "2026-02-12T05:46:38+09:00",
+      "start_date": "2026-02-11",
+      "start_ts": 1770842798,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://xxcross.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.viewit.co.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "90a6406c5222",
-      "title": "フェスタソーレ（ナイト）",
-      "date": "2026-02-11T00:45:21+09:00",
-      "start_date": "2026-02-10",
-      "start_ts": 1770738321,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.festasole.com/sch_night.html",
       "rating": "all",
       "genres": [
         "other"
