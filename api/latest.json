@@ -1,18 +1,39 @@
 {
-  "last_updated": "2026-02-12 11:23",
+  "last_updated": "2026-02-12 12:01",
   "items": [
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-12T17:45:47+09:00",
+      "date": "2026-02-12T20:48:27+09:00",
       "start_date": "2026-02-12",
-      "start_ts": 1770885947,
+      "start_ts": 1770896907,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "b0b820d4053f",
+      "title": "フェスタソーレ（名古屋・大阪）",
+      "date": "2026-02-12T20:47:07+09:00",
+      "start_date": "2026-02-12",
+      "start_ts": 1770896827,
+      "pref": "大阪",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.festasole.com/sch_nagoya&osaka.html",
       "rating": "all",
       "genres": [
         "other"
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-02-11T14:58:38+09:00",
-      "start_date": "2026-02-11",
-      "start_ts": 1770789518,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
