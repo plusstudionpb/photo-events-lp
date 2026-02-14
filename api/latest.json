@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-14 22:54",
+  "last_updated": "2026-02-14 23:29",
   "items": [
+    {
+      "id": "90a6406c5222",
+      "title": "フェスタソーレ（ナイト）",
+      "date": "2026-02-15T08:26:16+09:00",
+      "start_date": "2026-02-14",
+      "start_ts": 1771111576,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.festasole.com/sch_night.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "4694d206e58a",
       "title": "Cutie Factory STUDIO",
@@ -286,27 +307,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "90a6406c5222",
-      "title": "フェスタソーレ（ナイト）",
-      "date": "2026-02-14T16:39:16+09:00",
-      "start_date": "2026-02-14",
-      "start_ts": 1771054756,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.festasole.com/sch_night.html",
       "rating": "all",
       "genres": [
         "other"
