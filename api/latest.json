@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-14 19:58",
+  "last_updated": "2026-02-14 20:37",
   "items": [
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-02-15T05:35:33+09:00",
+      "start_date": "2026-02-14",
+      "start_ts": 1771101333,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "b0b820d4053f",
       "title": "フェスタソーレ（名古屋・大阪）",
@@ -223,27 +244,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.festasole.com/sch_night.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-02-14T15:57:12+09:00",
-      "start_date": "2026-02-14",
-      "start_ts": 1771052232,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
       "rating": "all",
       "genres": [
         "other"
