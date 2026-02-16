@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-16 06:14",
+  "last_updated": "2026-02-16 07:33",
   "items": [
+    {
+      "id": "e06f9ae6c57a",
+      "title": "asフォトセッション",
+      "date": "2026-02-16T15:58:30+09:00",
+      "start_date": "2026-02-16",
+      "start_ts": 1771225110,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.ashistar.jp/cont3/main.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -338,27 +359,6 @@
       ]
     },
     {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-02-15T15:45:04+09:00",
-      "start_date": "2026-02-15",
-      "start_ts": 1771137904,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "1a7c28f85d6d",
       "title": "PLAYZONE",
       "date": "2026-02-15T15:45:04+09:00",
@@ -380,27 +380,6 @@
       ]
     },
     {
-      "id": "2db40c4a8a54",
-      "title": "Greif撮影会",
-      "date": "2026-02-15T15:45:04+09:00",
-      "start_date": "2026-02-15",
-      "start_ts": 1771137904,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "2d87f87633b6",
       "title": "スタジオモーメント撮影会",
       "date": "2026-02-15T15:45:04+09:00",
@@ -412,6 +391,27 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "2db40c4a8a54",
+      "title": "Greif撮影会",
+      "date": "2026-02-15T15:45:04+09:00",
+      "start_date": "2026-02-15",
+      "start_ts": 1771137904,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
       "rating": "all",
       "genres": [
         "other"
