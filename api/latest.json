@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-19 08:00",
+  "last_updated": "2026-02-19 08:59",
   "items": [
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-02-19T17:40:20+09:00",
+      "start_date": "2026-02-19",
+      "start_ts": 1771490420,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-02-18T20:01:53+09:00",
-      "start_date": "2026-02-18",
-      "start_ts": 1771412513,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
