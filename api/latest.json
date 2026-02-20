@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-02-20 09:53",
+  "last_updated": "2026-02-20 10:42",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-02-20T19:38:47+09:00",
+      "start_date": "2026-02-20",
+      "start_ts": 1771583927,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-20T16:11:25+09:00",
+      "date": "2026-02-20T19:19:27+09:00",
       "start_date": "2026-02-20",
-      "start_ts": 1771571485,
+      "start_ts": 1771582767,
       "pref": "",
       "city": "",
       "venue": "",
@@ -307,27 +328,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio-still.net/still/event/sessions/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-02-19T05:59:02+09:00",
-      "start_date": "2026-02-18",
-      "start_ts": 1771448342,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
