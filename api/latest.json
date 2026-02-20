@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-02-20 02:49",
+  "last_updated": "2026-02-20 04:30",
   "items": [
     {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-02-20T09:34:44+09:00",
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-02-20T12:58:43+09:00",
       "start_date": "2026-02-20",
-      "start_ts": 1771547684,
+      "start_ts": 1771559923,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
+      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -23,17 +23,38 @@
       ]
     },
     {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-20T08:58:09+09:00",
-      "start_date": "2026-02-19",
-      "start_ts": 1771545489,
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-02-20T12:51:12+09:00",
+      "start_date": "2026-02-20",
+      "start_ts": 1771559472,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-02-20T12:49:52+09:00",
+      "start_date": "2026-02-20",
+      "start_ts": 1771559392,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -286,27 +307,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio-still.net/still/event/sessions/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-02-19T06:34:34+09:00",
-      "start_date": "2026-02-18",
-      "start_ts": 1771450474,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
       "rating": "all",
       "genres": [
         "other"
