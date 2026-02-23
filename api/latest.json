@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-23 20:29",
+  "last_updated": "2026-02-23 21:24",
   "items": [
+    {
+      "id": "2d87f87633b6",
+      "title": "スタジオモーメント撮影会",
+      "date": "2026-02-24T05:50:05+09:00",
+      "start_date": "2026-02-23",
+      "start_ts": 1771879805,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/special/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a4ab1ac23141",
-      "title": "撮影会ならサーチワン",
-      "date": "2026-02-23T01:39:01+09:00",
-      "start_date": "2026-02-22",
-      "start_ts": 1771778341,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.search-one.jp/schedule/",
       "rating": "all",
       "genres": [
         "other"
