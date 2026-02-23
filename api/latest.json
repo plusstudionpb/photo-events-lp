@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-02-23 13:40",
+  "last_updated": "2026-02-23 14:34",
   "items": [
     {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-02-23T21:50:27+09:00",
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-02-23T23:16:29+09:00",
       "start_date": "2026-02-23",
-      "start_ts": 1771851027,
+      "start_ts": 1771856189,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
+      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,9 +25,9 @@
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-02-23T20:09:04+09:00",
+      "date": "2026-02-23T23:09:50+09:00",
       "start_date": "2026-02-23",
-      "start_ts": 1771844944,
+      "start_ts": 1771855790,
       "pref": "",
       "city": "",
       "venue": "",
@@ -44,17 +44,17 @@
       ]
     },
     {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-23T19:57:41+09:00",
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-02-23T21:50:27+09:00",
       "start_date": "2026-02-23",
-      "start_ts": 1771844261,
+      "start_ts": 1771851027,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
+      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
