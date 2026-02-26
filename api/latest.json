@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-02-25 23:47",
+  "last_updated": "2026-02-26 00:53",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-02-26T09:52:01+09:00",
+      "start_date": "2026-02-26",
+      "start_ts": 1772067121,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-02-26T09:40:40+09:00",
+      "start_date": "2026-02-26",
+      "start_ts": 1772066440,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "a8ad7d400bd7",
       "title": "FESTASOLE",
@@ -83,27 +125,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-26T06:47:54+09:00",
-      "start_date": "2026-02-25",
-      "start_ts": 1772056074,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e06f9ae6c57a",
-      "title": "asフォトセッション",
-      "date": "2026-02-24T14:09:51+09:00",
-      "start_date": "2026-02-24",
-      "start_ts": 1771909791,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.ashistar.jp/cont3/main.html",
       "rating": "all",
       "genres": [
         "other"
