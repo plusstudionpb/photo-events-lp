@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-27 14:25",
+  "last_updated": "2026-02-27 15:08",
   "items": [
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-02-28T00:05:55+09:00",
+      "start_date": "2026-02-27",
+      "start_ts": 1772204755,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8b2738f1614a",
       "title": "AV女優個人撮影会アミーゴ",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "5c0c8a5c1d2c",
-      "title": "スタイルコーポレーション",
-      "date": "2026-02-26T18:00:50+09:00",
-      "start_date": "2026-02-26",
-      "start_ts": 1772096450,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.stylecorporation.com/schedule/index.html",
       "rating": "all",
       "genres": [
         "other"
