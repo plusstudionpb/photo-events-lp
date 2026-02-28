@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-28 09:52",
+  "last_updated": "2026-02-28 10:28",
   "items": [
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-02-28T19:12:15+09:00",
+      "start_date": "2026-02-28",
+      "start_ts": 1772273535,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8ef961918c8d",
       "title": "フレッシュ　個人撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-02-27T21:47:10+09:00",
-      "start_date": "2026-02-27",
-      "start_ts": 1772196430,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
       "rating": "all",
       "genres": [
         "other"
