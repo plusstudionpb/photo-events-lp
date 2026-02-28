@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-02-28 17:28",
+  "last_updated": "2026-02-28 17:47",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-03-01T02:34:59+09:00",
+      "start_date": "2026-02-28",
+      "start_ts": 1772300099,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "c649ab82144a",
       "title": "フレッシュ　屋外大撮影会",
@@ -83,27 +104,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-02-28T23:27:17+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772288837,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
