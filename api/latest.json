@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-01 15:32",
+  "last_updated": "2026-03-01 15:53",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-03-02T00:44:31+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772379871,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-03-02T00:33:49+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772379229,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2026-03-01T02:15:05+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772298905,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a0fba1a141f",
-      "title": "ZOOM撮影会",
-      "date": "2026-03-01T01:42:22+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772296942,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.st-zoom.com/",
       "rating": "all",
       "genres": [
         "other"
