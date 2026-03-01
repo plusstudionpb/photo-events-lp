@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-01 22:44",
+  "last_updated": "2026-03-01 23:00",
   "items": [
+    {
+      "id": "4694d206e58a",
+      "title": "Cutie Factory STUDIO",
+      "date": "2026-03-02T07:52:50+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772405570,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio.cutie-factory.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-03-01T10:02:47+09:00",
-      "start_date": "2026-03-01",
-      "start_ts": 1772326967,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
