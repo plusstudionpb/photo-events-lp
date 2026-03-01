@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-28 23:59",
+  "last_updated": "2026-03-01 03:20",
   "items": [
     {
       "id": "8b2738f1614a",
       "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-03-01T08:56:43+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772323003,
+      "date": "2026-03-01T12:13:14+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772334794,
       "pref": "",
       "city": "",
       "venue": "",
@@ -25,9 +25,9 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-03-01T08:49:12+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772322552,
+      "date": "2026-03-01T11:49:33+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772333373,
       "pref": "",
       "city": "",
       "venue": "",
@@ -44,11 +44,53 @@
       ]
     },
     {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-03-01T11:17:08+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772331428,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "be12cf7524b8",
+      "title": "Studio Still",
+      "date": "2026-03-01T11:04:28+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772330668,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio-still.net/still/event/sessions/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-03-01T05:39:43+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772311183,
+      "date": "2026-03-01T11:01:04+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772330464,
       "pref": "",
       "city": "",
       "venue": "",
@@ -62,6 +104,48 @@
       "tags": [
         "RSS",
         "R18"
+      ]
+    },
+    {
+      "id": "7028a6c5ce75",
+      "title": "ハートフル撮影会",
+      "date": "2026-03-01T10:46:34+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772329594,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/heartful01/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-03-01T10:02:47+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772326967,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
       ]
     },
     {
@@ -181,27 +265,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-02-28T20:44:04+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772279044,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
       "rating": "all",
       "genres": [
         "other"
@@ -349,69 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-02-28T05:54:47+09:00",
-      "start_date": "2026-02-27",
-      "start_ts": 1772225687,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-02-28T04:01:40+09:00",
-      "start_date": "2026-02-27",
-      "start_ts": 1772218900,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-02-28T03:34:20+09:00",
-      "start_date": "2026-02-27",
-      "start_ts": 1772217260,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
       "rating": "all",
       "genres": [
         "other"
