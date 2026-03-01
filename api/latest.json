@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-01 19:32",
+  "last_updated": "2026-03-01 19:51",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-03-02T04:44:45+09:00",
+      "start_date": "2026-03-01",
+      "start_ts": 1772394285,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/special/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "b7f04b721d40",
-      "title": "エックス撮影会",
-      "date": "2026-03-01T03:48:18+09:00",
-      "start_date": "2026-02-28",
-      "start_ts": 1772304498,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ex-ps.net/",
       "rating": "all",
       "genres": [
         "other"
