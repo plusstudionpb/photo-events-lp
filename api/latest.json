@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-02 08:06",
+  "last_updated": "2026-03-02 09:01",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-03-02T17:38:40+09:00",
+      "start_date": "2026-03-02",
+      "start_ts": 1772440720,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-03-02T17:14:53+09:00",
+      "start_date": "2026-03-02",
+      "start_ts": 1772439293,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -160,27 +202,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-03-02T04:01:41+09:00",
-      "start_date": "2026-03-01",
-      "start_ts": 1772391701,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "be12cf7524b8",
-      "title": "Studio Still",
-      "date": "2026-03-01T11:04:28+09:00",
-      "start_date": "2026-03-01",
-      "start_ts": 1772330668,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio-still.net/still/event/sessions/index.html",
       "rating": "all",
       "genres": [
         "other"
