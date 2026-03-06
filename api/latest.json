@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-05 23:12",
+  "last_updated": "2026-03-06 00:00",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-03-06T08:29:35+09:00",
+      "start_date": "2026-03-05",
+      "start_ts": 1772753375,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/outdoor/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-03-05T11:21:04+09:00",
-      "start_date": "2026-03-05",
-      "start_ts": 1772677264,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
