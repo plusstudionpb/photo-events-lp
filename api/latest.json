@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-09 20:59",
+  "last_updated": "2026-03-09 21:43",
   "items": [
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-03-10T06:30:49+09:00",
+      "start_date": "2026-03-09",
+      "start_ts": 1773091849,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "09f07a8070e5",
       "title": "たんぽぽ撮影会",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "fb399d9c5d94",
-      "title": "トラベリー撮影会",
-      "date": "2026-03-09T02:50:26+09:00",
-      "start_date": "2026-03-08",
-      "start_ts": 1772992226,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://ameblo.jp/portrait-club-traberry/entrylist.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
