@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-10 17:31",
+  "last_updated": "2026-03-10 18:27",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-03-11T02:42:29+09:00",
+      "start_date": "2026-03-10",
+      "start_ts": 1773164549,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9d39a4c96830",
       "title": "美マージュ",
@@ -349,27 +370,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-03-10T03:25:59+09:00",
-      "start_date": "2026-03-09",
-      "start_ts": 1773080759,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
