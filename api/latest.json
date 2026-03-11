@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-11 22:45",
+  "last_updated": "2026-03-11 23:01",
   "items": [
+    {
+      "id": "99e193b5ff3e",
+      "title": "ガーリッシュ",
+      "date": "2026-03-12T07:46:51+09:00",
+      "start_date": "2026-03-11",
+      "start_ts": 1773269211,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://girlish.pekori.to/satueikai/satsueikai.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "4694d206e58a",
-      "title": "Cutie Factory STUDIO",
-      "date": "2026-03-10T20:09:47+09:00",
-      "start_date": "2026-03-10",
-      "start_ts": 1773140987,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
