@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-14 11:55",
+  "last_updated": "2026-03-14 13:05",
   "items": [
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2026-03-14T21:43:11+09:00",
+      "start_date": "2026-03-14",
+      "start_ts": 1773492191,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-03-14T21:10:42+09:00",
+      "start_date": "2026-03-14",
+      "start_ts": 1773490242,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -275,27 +317,6 @@
       ]
     },
     {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-03-14T01:03:06+09:00",
-      "start_date": "2026-03-13",
-      "start_ts": 1773417786,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
       "date": "2026-03-13T23:37:39+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9d39a4c96830",
-      "title": "美マージュ",
-      "date": "2026-03-12T23:15:53+09:00",
-      "start_date": "2026-03-12",
-      "start_ts": 1773324953,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/tokyo-1.html",
       "rating": "all",
       "genres": [
         "other"
