@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-17 08:28",
+  "last_updated": "2026-03-17 09:31",
   "items": [
+    {
+      "id": "2db40c4a8a54",
+      "title": "Greif撮影会",
+      "date": "2026-03-17T17:53:28+09:00",
+      "start_date": "2026-03-17",
+      "start_ts": 1773737608,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "74a1c14d672c",
       "title": "TWINKLE撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a7cf6f491e8a",
-      "title": "フォトストロール撮影会",
-      "date": "2026-03-16T18:40:38+09:00",
-      "start_date": "2026-03-16",
-      "start_ts": 1773654038,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/photostroll2015/",
       "rating": "all",
       "genres": [
         "other"
