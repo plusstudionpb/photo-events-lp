@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-18 12:07",
+  "last_updated": "2026-03-18 13:53",
   "items": [
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-03-18T21:51:26+09:00",
+      "start_date": "2026-03-18",
+      "start_ts": 1773838286,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "2f97b6e6fbb1",
-      "title": "xxcross 2.5次元 コスプレ撮影会",
-      "date": "2026-03-18T03:10:30+09:00",
-      "start_date": "2026-03-17",
-      "start_ts": 1773771030,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
