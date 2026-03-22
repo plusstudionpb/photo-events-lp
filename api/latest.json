@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-22 17:01",
+  "last_updated": "2026-03-22 17:39",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-03-23T02:20:46+09:00",
+      "start_date": "2026-03-22",
+      "start_ts": 1774200046,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2d87f87633b6",
-      "title": "スタジオモーメント撮影会",
-      "date": "2026-03-21T12:02:26+09:00",
-      "start_date": "2026-03-21",
-      "start_ts": 1774062146,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://st-moment.com/",
       "rating": "all",
       "genres": [
         "other"
