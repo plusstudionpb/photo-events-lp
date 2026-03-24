@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-24 08:28",
+  "last_updated": "2026-03-24 09:32",
   "items": [
+    {
+      "id": "1a7c28f85d6d",
+      "title": "PLAYZONE",
+      "date": "2026-03-24T17:41:46+09:00",
+      "start_date": "2026-03-24",
+      "start_ts": 1774341706,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://playzone.jp/pc/schedule/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "68dcbaa233ae",
       "title": "撮影会 viewit",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://melty.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a7cf6f491e8a",
-      "title": "フォトストロール撮影会",
-      "date": "2026-03-22T08:43:12+09:00",
-      "start_date": "2026-03-21",
-      "start_ts": 1774136592,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/photostroll2015/",
       "rating": "all",
       "genres": [
         "other"
