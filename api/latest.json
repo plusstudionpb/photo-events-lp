@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-03-31 12:39",
+  "last_updated": "2026-03-31 14:15",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-03-31T22:40:59+09:00",
+      "start_date": "2026-03-31",
+      "start_ts": 1774964459,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0e13c8ae8a0c",
       "title": "スタジオガーネット",
@@ -419,27 +440,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-03-29T20:56:50+09:00",
-      "start_date": "2026-03-29",
-      "start_ts": 1774785410,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
