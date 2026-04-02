@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-02 05:16",
+  "last_updated": "2026-04-02 06:42",
   "items": [
+    {
+      "id": "4694d206e58a",
+      "title": "Cutie Factory STUDIO",
+      "date": "2026-04-02T14:58:32+09:00",
+      "start_date": "2026-04-02",
+      "start_ts": 1775109512,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://studio.cutie-factory.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-04-01T04:00:32+09:00",
-      "start_date": "2026-03-31",
-      "start_ts": 1774983632,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
       "rating": "all",
       "genres": [
         "other"
