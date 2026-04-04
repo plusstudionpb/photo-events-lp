@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-03 23:47",
+  "last_updated": "2026-04-04 00:58",
   "items": [
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-04-04T09:24:27+09:00",
+      "start_date": "2026-04-04",
+      "start_ts": 1775262267,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e06f9ae6c57a",
+      "title": "asフォトセッション",
+      "date": "2026-04-04T09:11:55+09:00",
+      "start_date": "2026-04-04",
+      "start_ts": 1775261515,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.ashistar.jp/cont3/main.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "be12cf7524b8",
       "title": "Studio Still",
@@ -296,27 +338,6 @@
       ]
     },
     {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-04-03T17:59:12+09:00",
-      "start_date": "2026-04-03",
-      "start_ts": 1775206752,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "40f217044610",
       "title": "ODAIBA撮影会",
       "date": "2026-04-03T17:45:16+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-04-03T13:42:35+09:00",
-      "start_date": "2026-04-03",
-      "start_ts": 1775191355,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
       "rating": "all",
       "genres": [
         "other"
