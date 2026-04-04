@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-04 21:50",
+  "last_updated": "2026-04-04 22:19",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-05T07:06:15+09:00",
+      "start_date": "2026-04-04",
+      "start_ts": 1775340375,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0e13c8ae8a0c",
       "title": "スタジオガーネット",
@@ -34,27 +55,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-05T04:02:00+09:00",
-      "start_date": "2026-04-04",
-      "start_ts": 1775329320,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
