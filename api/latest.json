@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-05 05:29",
+  "last_updated": "2026-04-05 06:46",
   "items": [
+    {
+      "id": "7b0cc095cf34",
+      "title": "フレッシュ　企画型撮影会",
+      "date": "2026-04-05T15:01:23+09:00",
+      "start_date": "2026-04-05",
+      "start_ts": 1775368883,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/project/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-04-05T14:56:39+09:00",
+      "start_date": "2026-04-05",
+      "start_ts": 1775368599,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -359,27 +401,6 @@
       ]
     },
     {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-04-04T11:40:25+09:00",
-      "start_date": "2026-04-04",
-      "start_ts": 1775270425,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "1a7c28f85d6d",
       "title": "PLAYZONE",
       "date": "2026-04-04T10:37:52+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://playzone.jp/pc/schedule/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e06f9ae6c57a",
-      "title": "asフォトセッション",
-      "date": "2026-04-04T09:11:55+09:00",
-      "start_date": "2026-04-04",
-      "start_ts": 1775261515,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.ashistar.jp/cont3/main.html",
       "rating": "all",
       "genres": [
         "other"
