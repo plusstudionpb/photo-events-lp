@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-05 19:10",
+  "last_updated": "2026-04-05 19:51",
   "items": [
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-04-06T04:45:49+09:00",
+      "start_date": "2026-04-05",
+      "start_ts": 1775418349,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-06T04:38:03+09:00",
+      "start_date": "2026-04-05",
+      "start_ts": 1775417883,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-04-06T04:33:42+09:00",
+      "start_date": "2026-04-05",
+      "start_ts": 1775417622,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
@@ -55,27 +118,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.twinring.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-06T01:29:36+09:00",
-      "start_date": "2026-04-05",
-      "start_ts": 1775406576,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -233,27 +275,6 @@
       ]
     },
     {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-04-05T17:46:10+09:00",
-      "start_date": "2026-04-05",
-      "start_ts": 1775378770,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "94308fccfae7",
       "title": "エモーション撮影会",
       "date": "2026-04-05T15:58:41+09:00",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-04-05T07:36:57+09:00",
-      "start_date": "2026-04-04",
-      "start_ts": 1775342217,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
