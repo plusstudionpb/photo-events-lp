@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-06 03:37",
+  "last_updated": "2026-04-06 05:50",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-04-06T13:59:59+09:00",
+      "start_date": "2026-04-06",
+      "start_ts": 1775451599,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-04-06T13:36:47+09:00",
+      "start_date": "2026-04-06",
+      "start_ts": 1775450207,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7028a6c5ce75",
+      "title": "ハートフル撮影会",
+      "date": "2026-04-06T13:18:20+09:00",
+      "start_date": "2026-04-06",
+      "start_ts": 1775449100,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/heartful01/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2a69e70b5f04",
       "title": "Pulchra撮影会",
@@ -149,27 +212,6 @@
       ]
     },
     {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-04-06T04:45:49+09:00",
-      "start_date": "2026-04-05",
-      "start_ts": 1775418349,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "e36903a2fa73",
       "title": "シフォン撮影会",
       "date": "2026-04-06T04:33:42+09:00",
@@ -296,27 +338,6 @@
       ]
     },
     {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-04-05T21:31:38+09:00",
-      "start_date": "2026-04-05",
-      "start_ts": 1775392298,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "1a0fba1a141f",
       "title": "ZOOM撮影会",
       "date": "2026-04-05T20:08:57+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/project/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-04-05T14:56:39+09:00",
-      "start_date": "2026-04-05",
-      "start_ts": 1775368599,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
       "rating": "all",
       "genres": [
         "other"
