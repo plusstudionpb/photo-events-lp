@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-07 16:32",
+  "last_updated": "2026-04-07 17:38",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-08T02:28:51+09:00",
+      "start_date": "2026-04-07",
+      "start_ts": 1775582931,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-04-08T01:56:52+09:00",
+      "start_date": "2026-04-07",
+      "start_ts": 1775581012,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "4694d206e58a",
       "title": "Cutie Factory STUDIO",
@@ -34,27 +76,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-07T23:28:46+09:00",
-      "start_date": "2026-04-07",
-      "start_ts": 1775572126,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -139,27 +160,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-04-07T18:00:39+09:00",
-      "start_date": "2026-04-07",
-      "start_ts": 1775552439,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
