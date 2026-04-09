@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-09 05:43",
+  "last_updated": "2026-04-09 07:05",
   "items": [
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-04-09T15:57:41+09:00",
+      "start_date": "2026-04-09",
+      "start_ts": 1775717861,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-04-08T15:51:07+09:00",
-      "start_date": "2026-04-08",
-      "start_ts": 1775631067,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
       "rating": "all",
       "genres": [
         "other"
