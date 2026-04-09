@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-08 23:42",
+  "last_updated": "2026-04-09 00:55",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-04-09T08:49:03+09:00",
+      "start_date": "2026-04-08",
+      "start_ts": 1775692143,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "2a69e70b5f04",
       "title": "Pulchra撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a0fba1a141f",
-      "title": "ZOOM撮影会",
-      "date": "2026-04-08T08:24:13+09:00",
-      "start_date": "2026-04-07",
-      "start_ts": 1775604253,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.st-zoom.com/",
       "rating": "all",
       "genres": [
         "other"
