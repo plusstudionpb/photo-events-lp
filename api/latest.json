@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-09 23:52",
+  "last_updated": "2026-04-10 02:56",
   "items": [
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-04-10T11:36:24+09:00",
+      "start_date": "2026-04-10",
+      "start_ts": 1775788584,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-10T11:12:50+09:00",
+      "start_date": "2026-04-10",
+      "start_ts": 1775787170,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-04-10T10:01:33+09:00",
+      "start_date": "2026-04-10",
+      "start_ts": 1775782893,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -34,27 +97,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-10T08:01:02+09:00",
-      "start_date": "2026-04-09",
-      "start_ts": 1775775662,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -275,27 +317,6 @@
       ]
     },
     {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-04-09T15:57:41+09:00",
-      "start_date": "2026-04-09",
-      "start_ts": 1775717861,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
       "date": "2026-04-09T13:49:40+09:00",
@@ -349,27 +370,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-04-09T10:08:10+09:00",
-      "start_date": "2026-04-09",
-      "start_ts": 1775696890,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
