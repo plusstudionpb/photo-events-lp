@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-17 18:34",
+  "last_updated": "2026-04-17 19:43",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-18T04:15:03+09:00",
+      "start_date": "2026-04-17",
+      "start_ts": 1776453303,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -34,27 +55,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-18T01:14:33+09:00",
-      "start_date": "2026-04-17",
-      "start_ts": 1776442473,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
