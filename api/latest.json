@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-18 22:49",
+  "last_updated": "2026-04-18 23:23",
   "items": [
+    {
+      "id": "2d87f87633b6",
+      "title": "スタジオモーメント撮影会",
+      "date": "2026-04-19T07:50:06+09:00",
+      "start_date": "2026-04-18",
+      "start_ts": 1776552606,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "fb399d9c5d94",
       "title": "トラベリー撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-04-18T06:57:33+09:00",
-      "start_date": "2026-04-17",
-      "start_ts": 1776463053,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
       "rating": "all",
       "genres": [
         "other"
