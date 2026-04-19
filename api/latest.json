@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-19 20:01",
+  "last_updated": "2026-04-19 20:54",
   "items": [
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-04-20T05:18:03+09:00",
+      "start_date": "2026-04-19",
+      "start_ts": 1776629883,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-04-20T05:05:19+09:00",
+      "start_date": "2026-04-19",
+      "start_ts": 1776629119,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8b2738f1614a",
       "title": "AV女優個人撮影会アミーゴ",
@@ -20,27 +62,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-20T02:00:53+09:00",
-      "start_date": "2026-04-19",
-      "start_ts": 1776618053,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bimage.client.jp/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-04-19T00:38:08+09:00",
-      "start_date": "2026-04-18",
-      "start_ts": 1776526688,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
       "rating": "all",
       "genres": [
         "other"
