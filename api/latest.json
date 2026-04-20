@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-20 21:30",
+  "last_updated": "2026-04-20 22:27",
   "items": [
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-04-21T07:12:20+09:00",
+      "start_date": "2026-04-20",
+      "start_ts": 1776723140,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cb139c78323",
       "title": "東京Lily",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.viewit.co.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-04-19T17:30:16+09:00",
-      "start_date": "2026-04-19",
-      "start_ts": 1776587416,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
