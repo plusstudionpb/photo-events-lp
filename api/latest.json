@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-23 08:05",
+  "last_updated": "2026-04-23 09:54",
   "items": [
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-04-23T18:12:49+09:00",
+      "start_date": "2026-04-23",
+      "start_ts": 1776935569,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-04-23T18:09:19+09:00",
+      "start_date": "2026-04-23",
+      "start_ts": 1776935359,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -380,27 +422,6 @@
       ]
     },
     {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-04-22T17:33:09+09:00",
-      "start_date": "2026-04-22",
-      "start_ts": 1776846789,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "7c676209d39a",
       "title": "お仕事用プロフィール写真撮影会（５月）開催のお知らせ",
       "date": "2026-04-22T15:01:00+09:00",
@@ -412,27 +433,6 @@
       "price": "",
       "organizer": "photo live studio FAGGIO",
       "official_url": "https://photofaggio.com/info/6732311",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-04-22T05:02:54+09:00",
-      "start_date": "2026-04-21",
-      "start_ts": 1776801774,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
