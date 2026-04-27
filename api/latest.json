@@ -1,18 +1,123 @@
 {
-  "last_updated": "2026-04-27 08:42",
+  "last_updated": "2026-04-27 10:50",
   "items": [
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-27T16:09:44+09:00",
+      "date": "2026-04-27T19:12:17+09:00",
       "start_date": "2026-04-27",
-      "start_ts": 1777273784,
+      "start_ts": 1777284737,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-04-27T18:50:20+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777283420,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-04-27T18:47:27+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777283247,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-04-27T18:47:11+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777283231,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e06f9ae6c57a",
+      "title": "asフォトセッション",
+      "date": "2026-04-27T18:45:33+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777283133,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.ashistar.jp/cont3/main.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-04-27T18:06:03+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777280763,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -128,27 +233,6 @@
       ]
     },
     {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-04-27T08:38:17+09:00",
-      "start_date": "2026-04-26",
-      "start_ts": 1777246697,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "e36903a2fa73",
       "title": "シフォン撮影会",
       "date": "2026-04-27T04:24:22+09:00",
@@ -181,27 +265,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-04-26T21:23:36+09:00",
-      "start_date": "2026-04-26",
-      "start_ts": 1777206216,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -349,69 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "5c0c8a5c1d2c",
-      "title": "スタイルコーポレーション",
-      "date": "2026-04-26T12:37:57+09:00",
-      "start_date": "2026-04-26",
-      "start_ts": 1777174677,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.stylecorporation.com/schedule/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-04-26T09:01:16+09:00",
-      "start_date": "2026-04-26",
-      "start_ts": 1777161676,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "40f217044610",
-      "title": "ODAIBA撮影会",
-      "date": "2026-04-26T08:18:34+09:00",
-      "start_date": "2026-04-25",
-      "start_ts": 1777159114,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bluebus.jp/event/satsueikai/",
       "rating": "all",
       "genres": [
         "other"
