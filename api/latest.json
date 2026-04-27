@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-04-27 20:15",
+  "last_updated": "2026-04-27 21:30",
   "items": [
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-04-28T06:29:47+09:00",
+      "start_date": "2026-04-27",
+      "start_ts": 1777325387,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e10dcdee1da7",
       "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-04-26T14:55:58+09:00",
-      "start_date": "2026-04-26",
-      "start_ts": 1777182958,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
