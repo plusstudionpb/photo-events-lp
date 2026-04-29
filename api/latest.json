@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-04-29 06:35",
+  "last_updated": "2026-04-29 08:59",
   "items": [
     {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-04-29T14:54:07+09:00",
+      "id": "e06f9ae6c57a",
+      "title": "asフォトセッション",
+      "date": "2026-04-29T17:33:34+09:00",
       "start_date": "2026-04-29",
-      "start_ts": 1777442047,
-      "pref": "東京",
+      "start_ts": 1777451614,
+      "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "official_url": "http://www.ashistar.jp/cont3/main.html",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-04-29T14:19:54+09:00",
+      "date": "2026-04-29T17:21:39+09:00",
       "start_date": "2026-04-29",
-      "start_ts": 1777439994,
+      "start_ts": 1777450899,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-04-29T14:54:07+09:00",
+      "start_date": "2026-04-29",
+      "start_ts": 1777442047,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "15f512897cba",
-      "title": "はなまる撮影会",
-      "date": "2026-04-28T15:43:30+09:00",
-      "start_date": "2026-04-28",
-      "start_ts": 1777358610,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://hanamaru-photo.com/schedule",
       "rating": "all",
       "genres": [
         "other"
