@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-03 16:10",
+  "last_updated": "2026-05-03 17:11",
   "items": [
+    {
+      "id": "409a7f8261c0",
+      "title": "スタジオいちごはうす撮影会",
+      "date": "2026-05-04T01:42:42+09:00",
+      "start_date": "2026-05-03",
+      "start_ts": 1777826562,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://strawberryhouse.jp/schedule.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "a8ad7d400bd7",
       "title": "FESTASOLE",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "40f217044610",
-      "title": "ODAIBA撮影会",
-      "date": "2026-05-02T22:06:42+09:00",
-      "start_date": "2026-05-02",
-      "start_ts": 1777727202,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bluebus.jp/event/satsueikai/",
       "rating": "all",
       "genres": [
         "other"
