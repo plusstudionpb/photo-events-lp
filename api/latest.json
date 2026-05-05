@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-05 06:38",
+  "last_updated": "2026-05-05 08:59",
   "items": [
+    {
+      "id": "2a69e70b5f04",
+      "title": "Pulchra撮影会",
+      "date": "2026-05-05T17:57:47+09:00",
+      "start_date": "2026-05-05",
+      "start_ts": 1777971467,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/kokuchi/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-05-05T16:35:00+09:00",
+      "start_date": "2026-05-05",
+      "start_ts": 1777966500,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-05-05T15:50:34+09:00",
+      "start_date": "2026-05-05",
+      "start_ts": 1777963834,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -191,27 +254,6 @@
       ]
     },
     {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-05-05T01:56:06+09:00",
-      "start_date": "2026-05-04",
-      "start_ts": 1777913766,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
       "date": "2026-05-05T01:10:20+09:00",
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://newpiece-inc.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2d87f87633b6",
-      "title": "スタジオモーメント撮影会",
-      "date": "2026-05-04T02:34:57+09:00",
-      "start_date": "2026-05-03",
-      "start_ts": 1777829697,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-05-04T01:42:42+09:00",
-      "start_date": "2026-05-03",
-      "start_ts": 1777826562,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
       "rating": "all",
       "genres": [
         "other"
