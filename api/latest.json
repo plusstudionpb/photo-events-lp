@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-09 22:08",
+  "last_updated": "2026-05-09 23:04",
   "items": [
+    {
+      "id": "1a7c28f85d6d",
+      "title": "PLAYZONE",
+      "date": "2026-05-10T07:48:06+09:00",
+      "start_date": "2026-05-09",
+      "start_ts": 1778366886,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://playzone.jp/pc/schedule/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-05-10T07:45:17+09:00",
+      "start_date": "2026-05-09",
+      "start_ts": 1778366717,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-05-10T07:25:24+09:00",
+      "start_date": "2026-05-09",
+      "start_ts": 1778365524,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e10dcdee1da7",
       "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
@@ -97,27 +160,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bimage.client.jp/tokyo-1.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-05-09T22:03:56+09:00",
-      "start_date": "2026-05-09",
-      "start_ts": 1778331836,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "a8ad7d400bd7",
-      "title": "FESTASOLE",
-      "date": "2026-05-09T09:58:46+09:00",
-      "start_date": "2026-05-09",
-      "start_ts": 1778288326,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2f97b6e6fbb1",
-      "title": "xxcross 2.5次元 コスプレ撮影会",
-      "date": "2026-05-09T05:16:30+09:00",
-      "start_date": "2026-05-08",
-      "start_ts": 1778271390,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://xxcross.com/",
       "rating": "all",
       "genres": [
         "other"
