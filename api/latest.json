@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-05-10 07:08",
+  "last_updated": "2026-05-10 09:01",
   "items": [
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-05-10T16:53:51+09:00",
+      "start_date": "2026-05-10",
+      "start_ts": 1778399631,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-05-10T16:43:49+09:00",
+      "start_date": "2026-05-10",
+      "start_ts": 1778399029,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "583c0146d122",
       "title": "newtype撮影会",
@@ -118,27 +160,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-05-10T12:46:38+09:00",
-      "start_date": "2026-05-10",
-      "start_ts": 1778384798,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/project/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-05-09T19:01:18+09:00",
-      "start_date": "2026-05-09",
-      "start_ts": 1778320878,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
       "rating": "all",
       "genres": [
         "other"
