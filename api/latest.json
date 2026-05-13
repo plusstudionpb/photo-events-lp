@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-13 13:23",
+  "last_updated": "2026-05-13 16:03",
   "items": [
+    {
+      "id": "68dcbaa233ae",
+      "title": "撮影会 viewit",
+      "date": "2026-05-13T22:38:11+09:00",
+      "start_date": "2026-05-13",
+      "start_ts": 1778679491,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.viewit.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.ashistar.jp/cont3/main.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-05-12T21:33:38+09:00",
-      "start_date": "2026-05-12",
-      "start_ts": 1778589218,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
       "rating": "all",
       "genres": [
         "other"
