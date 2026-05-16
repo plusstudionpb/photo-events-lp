@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-16 01:23",
+  "last_updated": "2026-05-16 04:55",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-05-16T11:26:28+09:00",
+      "start_date": "2026-05-16",
+      "start_ts": 1778898388,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "409a7f8261c0",
+      "title": "スタジオいちごはうす撮影会",
+      "date": "2026-05-16T11:24:58+09:00",
+      "start_date": "2026-05-16",
+      "start_ts": 1778898298,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://strawberryhouse.jp/schedule.htm",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "c989da68759f",
+      "title": "トップカメラ",
+      "date": "2026-05-16T11:21:32+09:00",
+      "start_date": "2026-05-16",
+      "start_ts": 1778898092,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.topcamera.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e36903a2fa73",
       "title": "シフォン撮影会",
@@ -76,27 +139,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-05-16T08:20:02+09:00",
-      "start_date": "2026-05-15",
-      "start_ts": 1778887202,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://girlish.pekori.to/satueikai/satsueikai.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e06f9ae6c57a",
-      "title": "asフォトセッション",
-      "date": "2026-05-15T10:58:50+09:00",
-      "start_date": "2026-05-15",
-      "start_ts": 1778810330,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.ashistar.jp/cont3/main.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "09f07a8070e5",
-      "title": "たんぽぽ撮影会",
-      "date": "2026-05-15T09:49:50+09:00",
-      "start_date": "2026-05-15",
-      "start_ts": 1778806190,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://newpiece-inc.com/",
       "rating": "all",
       "genres": [
         "other"
