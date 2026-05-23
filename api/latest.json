@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-05-23 10:14",
+  "last_updated": "2026-05-23 11:37",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-05-23T19:57:55+09:00",
+      "start_date": "2026-05-23",
+      "start_ts": 1779533875,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-05-23T19:49:09+09:00",
+      "start_date": "2026-05-23",
+      "start_ts": 1779533349,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -20,27 +62,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-05-23T16:53:01+09:00",
-      "start_date": "2026-05-23",
-      "start_ts": 1779522781,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -412,27 +433,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bimage.client.jp/tokyo-1.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-05-21T17:57:13+09:00",
-      "start_date": "2026-05-21",
-      "start_ts": 1779353833,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
       "rating": "all",
       "genres": [
         "other"
