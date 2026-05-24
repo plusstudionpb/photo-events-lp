@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-24 15:19",
+  "last_updated": "2026-05-24 16:30",
   "items": [
+    {
+      "id": "7b0cc095cf34",
+      "title": "フレッシュ　企画型撮影会",
+      "date": "2026-05-25T01:03:27+09:00",
+      "start_date": "2026-05-24",
+      "start_ts": 1779638607,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/project/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1a0fba1a141f",
       "title": "ZOOM撮影会",
@@ -412,27 +433,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7b0cc095cf34",
-      "title": "フレッシュ　企画型撮影会",
-      "date": "2026-05-23T01:54:28+09:00",
-      "start_date": "2026-05-22",
-      "start_ts": 1779468868,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/project/",
       "rating": "all",
       "genres": [
         "other"
