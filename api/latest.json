@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-01 13:02",
+  "last_updated": "2026-06-01 18:48",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-06-02T02:38:48+09:00",
+      "start_date": "2026-06-01",
+      "start_ts": 1780335528,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-06-02T02:01:14+09:00",
+      "start_date": "2026-06-01",
+      "start_ts": 1780333274,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-06-02T00:45:33+09:00",
+      "start_date": "2026-06-01",
+      "start_ts": 1780328733,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/akb/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "2d87f87633b6",
+      "title": "スタジオモーメント撮影会",
+      "date": "2026-06-02T00:09:57+09:00",
+      "start_date": "2026-06-01",
+      "start_ts": 1780326597,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://st-moment.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8ef961918c8d",
       "title": "フレッシュ　個人撮影会",
@@ -20,27 +104,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-06-01T18:53:58+09:00",
-      "start_date": "2026-06-01",
-      "start_ts": 1780307638,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -76,27 +139,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-06-01T12:41:51+09:00",
-      "start_date": "2026-06-01",
-      "start_ts": 1780285311,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -188,27 +230,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "0cae2e713023",
-      "title": "フレッシュ　フォトセッション",
-      "date": "2026-06-01T02:34:45+09:00",
-      "start_date": "2026-05-31",
-      "start_ts": 1780248885,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.viewit.co.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2f97b6e6fbb1",
-      "title": "xxcross 2.5次元 コスプレ撮影会",
-      "date": "2026-05-31T07:47:23+09:00",
-      "start_date": "2026-05-30",
-      "start_ts": 1780181243,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://xxcross.com/",
       "rating": "all",
       "genres": [
         "other"
