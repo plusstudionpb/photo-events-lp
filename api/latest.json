@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-06-13 09:43",
+  "last_updated": "2026-06-13 11:43",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-06-13T20:14:42+09:00",
+      "start_date": "2026-06-13",
+      "start_ts": 1781349282,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "09f07a8070e5",
+      "title": "たんぽぽ撮影会",
+      "date": "2026-06-13T19:33:20+09:00",
+      "start_date": "2026-06-13",
+      "start_ts": 1781346800,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://newpiece-inc.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-06-13T19:15:45+09:00",
+      "start_date": "2026-06-13",
+      "start_ts": 1781345745,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -13,27 +76,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-06-13T17:12:16+09:00",
-      "start_date": "2026-06-13",
-      "start_ts": 1781338336,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -338,27 +380,6 @@
       ]
     },
     {
-      "id": "40f217044610",
-      "title": "ODAIBA撮影会",
-      "date": "2026-06-12T18:22:39+09:00",
-      "start_date": "2026-06-12",
-      "start_ts": 1781256159,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "2d87f87633b6",
       "title": "スタジオモーメント撮影会",
       "date": "2026-06-12T15:38:21+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://melty.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-06-12T07:06:20+09:00",
-      "start_date": "2026-06-11",
-      "start_ts": 1781215580,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
