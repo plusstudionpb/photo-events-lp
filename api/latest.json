@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-17 19:36",
+  "last_updated": "2026-06-17 21:33",
   "items": [
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-06-18T05:57:19+09:00",
+      "start_date": "2026-06-17",
+      "start_ts": 1781729839,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-06-18T02:51:31+09:00",
+      "date": "2026-06-18T05:53:00+09:00",
       "start_date": "2026-06-17",
-      "start_ts": 1781718691,
+      "start_ts": 1781729580,
       "pref": "",
       "city": "",
       "venue": "",
@@ -370,27 +391,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-06-16T21:28:00+09:00",
-      "start_date": "2026-06-16",
-      "start_ts": 1781612880,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
