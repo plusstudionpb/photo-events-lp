@@ -1,18 +1,39 @@
 {
-  "last_updated": "2026-06-20 06:25",
+  "last_updated": "2026-06-20 09:51",
   "items": [
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-06-20T15:08:34+09:00",
+      "date": "2026-06-20T18:39:25+09:00",
       "start_date": "2026-06-20",
-      "start_ts": 1781935714,
+      "start_ts": 1781948365,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-06-20T17:13:47+09:00",
+      "start_date": "2026-06-20",
+      "start_ts": 1781943227,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-06-19T10:38:53+09:00",
-      "start_date": "2026-06-19",
-      "start_ts": 1781833133,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
