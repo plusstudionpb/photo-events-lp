@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-06-23 19:28",
+  "last_updated": "2026-06-23 21:15",
   "items": [
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-06-24T06:12:35+09:00",
+      "start_date": "2026-06-23",
+      "start_ts": 1782249155,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-06-24T05:11:33+09:00",
+      "start_date": "2026-06-23",
+      "start_ts": 1782245493,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e10dcdee1da7",
+      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
+      "date": "2026-06-24T04:51:27+09:00",
+      "start_date": "2026-06-23",
+      "start_ts": 1782244287,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://melty.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -233,27 +296,6 @@
       ]
     },
     {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-06-23T16:00:26+09:00",
-      "start_date": "2026-06-23",
-      "start_ts": 1782198026,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "2f97b6e6fbb1",
       "title": "xxcross 2.5次元 コスプレ撮影会",
       "date": "2026-06-23T10:29:05+09:00",
@@ -317,27 +359,6 @@
       ]
     },
     {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-06-23T05:30:44+09:00",
-      "start_date": "2026-06-22",
-      "start_ts": 1782160244,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
       "date": "2026-06-23T03:22:49+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-06-22T05:55:27+09:00",
-      "start_date": "2026-06-21",
-      "start_ts": 1782075327,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
       "rating": "all",
       "genres": [
         "other"
