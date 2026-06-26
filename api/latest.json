@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-06-26 15:56",
+  "last_updated": "2026-06-26 17:55",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-06-27T02:36:48+09:00",
+      "start_date": "2026-06-26",
+      "start_ts": 1782495408,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9896238f28a2",
+      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
+      "date": "2026-06-27T01:50:32+09:00",
+      "start_date": "2026-06-26",
+      "start_ts": 1782492632,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://pls1.jp/top/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -146,27 +188,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "9896238f28a2",
-      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-06-26T20:30:51+09:00",
-      "start_date": "2026-06-26",
-      "start_ts": 1782473451,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://pls1.jp/top/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "09f07a8070e5",
-      "title": "たんぽぽ撮影会",
-      "date": "2026-06-25T13:41:26+09:00",
-      "start_date": "2026-06-25",
-      "start_ts": 1782362486,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://newpiece-inc.com/",
       "rating": "all",
       "genres": [
         "other"
