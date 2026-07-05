@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-07-04 23:13",
+  "last_updated": "2026-07-05 00:17",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-07-05T08:54:40+09:00",
+      "start_date": "2026-07-04",
+      "start_ts": 1783209280,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-07-05T08:39:28+09:00",
+      "start_date": "2026-07-04",
+      "start_ts": 1783208368,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9896238f28a2",
+      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
+      "date": "2026-07-05T08:26:47+09:00",
+      "start_date": "2026-07-04",
+      "start_ts": 1783207607,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://pls1.jp/top/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -13,27 +76,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-07-05T05:30:26+09:00",
-      "start_date": "2026-07-04",
-      "start_ts": 1783197026,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -254,27 +296,6 @@
       ]
     },
     {
-      "id": "9896238f28a2",
-      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-07-04T17:58:15+09:00",
-      "start_date": "2026-07-04",
-      "start_ts": 1783155495,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://pls1.jp/top/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "94308fccfae7",
       "title": "エモーション撮影会",
       "date": "2026-07-04T13:58:31+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-07-04T05:12:20+09:00",
-      "start_date": "2026-07-03",
-      "start_ts": 1783109540,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
