@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-12 17:40",
+  "last_updated": "2026-07-12 18:41",
   "items": [
+    {
+      "id": "2db40c4a8a54",
+      "title": "Greif撮影会",
+      "date": "2026-07-13T03:37:31+09:00",
+      "start_date": "2026-07-12",
+      "start_ts": 1783881451,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2026-07-11T16:54:32+09:00",
-      "start_date": "2026-07-11",
-      "start_ts": 1783756472,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
       "rating": "all",
       "genres": [
         "other"
