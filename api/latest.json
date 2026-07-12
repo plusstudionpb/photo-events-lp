@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-12 20:58",
+  "last_updated": "2026-07-12 21:59",
   "items": [
+    {
+      "id": "40f217044610",
+      "title": "ODAIBA撮影会",
+      "date": "2026-07-13T06:51:34+09:00",
+      "start_date": "2026-07-12",
+      "start_ts": 1783893094,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bluebus.jp/event/satsueikai/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cb139c78323",
       "title": "東京Lily",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-07-12T01:02:53+09:00",
-      "start_date": "2026-07-11",
-      "start_ts": 1783785773,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
       "rating": "all",
       "genres": [
         "other"
