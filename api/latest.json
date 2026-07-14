@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-14 01:02",
+  "last_updated": "2026-07-14 04:14",
   "items": [
     {
-      "id": "c989da68759f",
-      "title": "トップカメラ",
-      "date": "2026-07-14T08:45:39+09:00",
-      "start_date": "2026-07-13",
-      "start_ts": 1783986339,
+      "id": "5c0c8a5c1d2c",
+      "title": "スタイルコーポレーション",
+      "date": "2026-07-14T11:59:22+09:00",
+      "start_date": "2026-07-14",
+      "start_ts": 1783997962,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.topcamera.co.jp/",
+      "official_url": "http://www.stylecorporation.com/schedule/index.html",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,57 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-07-14T08:32:09+09:00",
-      "start_date": "2026-07-13",
-      "start_ts": 1783985529,
+      "date": "2026-07-14T11:33:54+09:00",
+      "start_date": "2026-07-14",
+      "start_ts": 1783996434,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "68dcbaa233ae",
+      "title": "撮影会 viewit",
+      "date": "2026-07-14T10:36:00+09:00",
+      "start_date": "2026-07-14",
+      "start_ts": 1783992960,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.viewit.co.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "c989da68759f",
+      "title": "トップカメラ",
+      "date": "2026-07-14T08:45:39+09:00",
+      "start_date": "2026-07-13",
+      "start_ts": 1783986339,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.topcamera.co.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-07-13T04:10:45+09:00",
-      "start_date": "2026-07-12",
-      "start_ts": 1783883445,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2db40c4a8a54",
-      "title": "Greif撮影会",
-      "date": "2026-07-13T03:37:31+09:00",
-      "start_date": "2026-07-12",
-      "start_ts": 1783881451,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
       "rating": "all",
       "genres": [
         "other"
