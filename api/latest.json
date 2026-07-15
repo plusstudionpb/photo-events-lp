@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-15 17:25",
+  "last_updated": "2026-07-15 18:38",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-07-16T03:35:43+09:00",
+      "start_date": "2026-07-15",
+      "start_ts": 1784140543,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "fb399d9c5d94",
       "title": "トラベリー撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2026-07-14T17:49:00+09:00",
-      "start_date": "2026-07-14",
-      "start_ts": 1784018940,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
       "rating": "all",
       "genres": [
         "other"
