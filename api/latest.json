@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-15 23:16",
+  "last_updated": "2026-07-16 00:13",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-07-16T08:27:36+09:00",
+      "start_date": "2026-07-15",
+      "start_ts": 1784158056,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "c649ab82144a",
       "title": "フレッシュ　屋外大撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-07-15T05:00:56+09:00",
-      "start_date": "2026-07-14",
-      "start_ts": 1784059256,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
