@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-19 19:57",
+  "last_updated": "2026-07-19 21:04",
   "items": [
     {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-07-20T02:11:43+09:00",
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-07-20T05:55:09+09:00",
       "start_date": "2026-07-19",
-      "start_ts": 1784481103,
+      "start_ts": 1784494509,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
+      "official_url": "https://www.festasole.net/schedule",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-07-20T01:49:49+09:00",
+      "date": "2026-07-20T05:40:09+09:00",
       "start_date": "2026-07-19",
-      "start_ts": 1784479789,
+      "start_ts": 1784493609,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-07-20T02:11:43+09:00",
+      "start_date": "2026-07-19",
+      "start_ts": 1784481103,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-07-18T19:16:11+09:00",
-      "start_date": "2026-07-18",
-      "start_ts": 1784369771,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
