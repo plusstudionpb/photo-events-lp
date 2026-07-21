@@ -1,33 +1,12 @@
 {
-  "last_updated": "2026-07-21 13:03",
+  "last_updated": "2026-07-21 15:15",
   "items": [
-    {
-      "id": "a6ae879e4be3",
-      "title": "ツインリンクもてぎ",
-      "date": "2026-07-21T21:01:47+09:00",
-      "start_date": "2026-07-21",
-      "start_ts": 1784635307,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.twinring.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-07-21T19:45:17+09:00",
+      "date": "2026-07-21T22:47:04+09:00",
       "start_date": "2026-07-21",
-      "start_ts": 1784630717,
+      "start_ts": 1784641624,
       "pref": "",
       "city": "",
       "venue": "",
@@ -46,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-07-21T19:16:15+09:00",
+      "date": "2026-07-21T22:17:03+09:00",
       "start_date": "2026-07-21",
-      "start_ts": 1784628975,
+      "start_ts": 1784639823,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "a6ae879e4be3",
+      "title": "ツインリンクもてぎ",
+      "date": "2026-07-21T21:01:47+09:00",
+      "start_date": "2026-07-21",
+      "start_ts": 1784635307,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.twinring.jp/",
       "rating": "all",
       "genres": [
         "other"
