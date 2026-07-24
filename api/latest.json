@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-24 04:30",
+  "last_updated": "2026-07-24 07:15",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-07-24T15:09:56+09:00",
+      "start_date": "2026-07-24",
+      "start_ts": 1784873396,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "4694d206e58a",
       "title": "Cutie Factory STUDIO",
@@ -412,27 +433,6 @@
       "price": "",
       "organizer": "photo live studio FAGGIO",
       "official_url": "https://photofaggio.com/info/6849886",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-07-23T14:33:13+09:00",
-      "start_date": "2026-07-23",
-      "start_ts": 1784784793,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
