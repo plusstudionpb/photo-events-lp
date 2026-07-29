@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-29 19:43",
+  "last_updated": "2026-07-29 20:39",
   "items": [
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-07-30T05:27:49+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785356869,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
@@ -76,27 +97,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://studio.cutie-factory.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-07-30T01:29:26+09:00",
-      "start_date": "2026-07-29",
-      "start_ts": 1785342566,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
