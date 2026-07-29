@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-07-29 06:20",
+  "last_updated": "2026-07-29 09:22",
   "items": [
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-07-29T18:09:42+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785316182,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7b0cc095cf34",
+      "title": "フレッシュ　企画型撮影会",
+      "date": "2026-07-29T17:24:01+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785313441,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/project/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-07-29T15:59:35+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785308375,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9896238f28a2",
+      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
+      "date": "2026-07-29T15:58:04+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785308284,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://pls1.jp/top/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-07-29T15:22:06+09:00",
+      "start_date": "2026-07-29",
+      "start_ts": 1785306126,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "583c0146d122",
       "title": "newtype撮影会",
@@ -34,27 +139,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-07-29T12:13:51+09:00",
-      "start_date": "2026-07-29",
-      "start_ts": 1785294831,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -233,27 +317,6 @@
       ]
     },
     {
-      "id": "9896238f28a2",
-      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-07-29T00:57:15+09:00",
-      "start_date": "2026-07-28",
-      "start_ts": 1785254235,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://pls1.jp/top/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
       "date": "2026-07-28T20:48:12+09:00",
@@ -265,27 +328,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-07-28T20:02:36+09:00",
-      "start_date": "2026-07-28",
-      "start_ts": 1785236556,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -370,48 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.st-zoom.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e10dcdee1da7",
-      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
-      "date": "2026-07-28T09:59:33+09:00",
-      "start_date": "2026-07-28",
-      "start_ts": 1785200373,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://melty.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1e7b01966587",
-      "title": "smooth TOKYO",
-      "date": "2026-07-28T06:52:38+09:00",
-      "start_date": "2026-07-27",
-      "start_ts": 1785189158,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.smooth-tokyo.jp/schedule/index.html",
       "rating": "all",
       "genres": [
         "other"
