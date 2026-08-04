@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-08-04 01:09",
+  "last_updated": "2026-08-04 04:33",
   "items": [
+    {
+      "id": "7b0cc095cf34",
+      "title": "フレッシュ　企画型撮影会",
+      "date": "2026-08-04T13:17:42+09:00",
+      "start_date": "2026-08-04",
+      "start_ts": 1785817062,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/project/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-08-04T10:05:34+09:00",
+      "date": "2026-08-04T13:14:33+09:00",
       "start_date": "2026-08-04",
-      "start_ts": 1785805534,
+      "start_ts": 1785816873,
       "pref": "",
       "city": "",
       "venue": "",
@@ -25,15 +46,57 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-04T09:54:15+09:00",
+      "date": "2026-08-04T12:59:02+09:00",
       "start_date": "2026-08-04",
-      "start_ts": 1785804855,
+      "start_ts": 1785815942,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-08-04T11:41:38+09:00",
+      "start_date": "2026-08-04",
+      "start_ts": 1785811298,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "e36903a2fa73",
+      "title": "シフォン撮影会",
+      "date": "2026-08-04T11:41:26+09:00",
+      "start_date": "2026-08-04",
+      "start_ts": 1785811286,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://chiffon.photo/",
       "rating": "all",
       "genres": [
         "other"
@@ -212,27 +275,6 @@
       ]
     },
     {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-08-03T18:04:27+09:00",
-      "start_date": "2026-08-03",
-      "start_ts": 1785747867,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "c989da68759f",
       "title": "トップカメラ",
       "date": "2026-08-03T17:58:08+09:00",
@@ -265,27 +307,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.festasole.net/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-08-03T10:57:44+09:00",
-      "start_date": "2026-08-03",
-      "start_ts": 1785722264,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "7b0cc095cf34",
-      "title": "フレッシュ　企画型撮影会",
-      "date": "2026-08-02T23:08:56+09:00",
-      "start_date": "2026-08-02",
-      "start_ts": 1785679736,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/project/",
       "rating": "all",
       "genres": [
         "other"
