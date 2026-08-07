@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-07 00:19",
+  "last_updated": "2026-08-07 03:22",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-08-07T10:51:19+09:00",
+      "start_date": "2026-08-07",
+      "start_ts": 1786067479,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bimage.client.jp/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "40f217044610",
-      "title": "ODAIBA撮影会",
-      "date": "2026-08-06T07:02:02+09:00",
-      "start_date": "2026-08-05",
-      "start_ts": 1785967322,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bluebus.jp/event/satsueikai/",
       "rating": "all",
       "genres": [
         "other"
