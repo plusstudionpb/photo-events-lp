@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-07 19:33",
+  "last_updated": "2026-08-07 20:19",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-08-08T05:05:13+09:00",
+      "start_date": "2026-08-07",
+      "start_ts": 1786133113,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "1860af763485",
       "title": "フレッシュ　スペシャル大撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://strawberryhouse.jp/schedule.htm",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-08-07T01:36:23+09:00",
-      "start_date": "2026-08-06",
-      "start_ts": 1786034183,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
