@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-08-07 16:31",
+  "last_updated": "2026-08-07 17:31",
   "items": [
+    {
+      "id": "737f0f70adad",
+      "title": "モデル撮影会「美マージュ」",
+      "date": "2026-08-08T02:20:30+09:00",
+      "start_date": "2026-08-07",
+      "start_ts": 1786123230,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-08-08T02:17:20+09:00",
+      "start_date": "2026-08-07",
+      "start_ts": 1786123040,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "2f97b6e6fbb1",
+      "title": "xxcross 2.5次元 コスプレ撮影会",
+      "date": "2026-08-08T01:49:07+09:00",
+      "start_date": "2026-08-07",
+      "start_ts": 1786121347,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://xxcross.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -34,27 +97,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-07T23:10:44+09:00",
-      "start_date": "2026-08-07",
-      "start_ts": 1786111844,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -338,27 +380,6 @@
       ]
     },
     {
-      "id": "2f97b6e6fbb1",
-      "title": "xxcross 2.5次元 コスプレ撮影会",
-      "date": "2026-08-06T19:35:12+09:00",
-      "start_date": "2026-08-06",
-      "start_ts": 1786012512,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://xxcross.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "a8ad7d400bd7",
       "title": "FESTASOLE",
       "date": "2026-08-06T18:26:05+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9d39a4c96830",
-      "title": "美マージュ",
-      "date": "2026-08-06T16:16:16+09:00",
-      "start_date": "2026-08-06",
-      "start_ts": 1786000576,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/tokyo-1.html",
       "rating": "all",
       "genres": [
         "other"
