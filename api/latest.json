@@ -1,18 +1,39 @@
 {
-  "last_updated": "2026-08-08 18:55",
+  "last_updated": "2026-08-08 19:33",
   "items": [
     {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-08-09T02:55:04+09:00",
+      "id": "583c0146d122",
+      "title": "newtype撮影会",
+      "date": "2026-08-09T04:22:29+09:00",
       "start_date": "2026-08-08",
-      "start_ts": 1786211704,
+      "start_ts": 1786216949,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
+      "official_url": "http://www.newtype-side7.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7028a6c5ce75",
+      "title": "ハートフル撮影会",
+      "date": "2026-08-09T04:05:17+09:00",
+      "start_date": "2026-08-08",
+      "start_ts": 1786215917,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/heartful01/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +46,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-09T00:58:29+09:00",
+      "date": "2026-08-09T03:59:05+09:00",
       "start_date": "2026-08-08",
-      "start_ts": 1786204709,
+      "start_ts": 1786215545,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-08-09T02:55:04+09:00",
+      "start_date": "2026-08-08",
+      "start_ts": 1786211704,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -125,27 +167,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-08-08T19:22:28+09:00",
-      "start_date": "2026-08-08",
-      "start_ts": 1786184548,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -356,27 +377,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "583c0146d122",
-      "title": "newtype撮影会",
-      "date": "2026-08-08T03:55:36+09:00",
-      "start_date": "2026-08-07",
-      "start_ts": 1786128936,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
