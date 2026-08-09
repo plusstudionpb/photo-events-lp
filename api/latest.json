@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-09 13:26",
+  "last_updated": "2026-08-09 14:08",
   "items": [
+    {
+      "id": "e10dcdee1da7",
+      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
+      "date": "2026-08-09T22:38:50+09:00",
+      "start_date": "2026-08-09",
+      "start_ts": 1786282730,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://melty.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "409a7f8261c0",
       "title": "スタジオいちごはうす撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.emotion-c.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "737f0f70adad",
-      "title": "モデル撮影会「美マージュ」",
-      "date": "2026-08-08T02:20:30+09:00",
-      "start_date": "2026-08-07",
-      "start_ts": 1786123230,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/index.html",
       "rating": "all",
       "genres": [
         "other"
