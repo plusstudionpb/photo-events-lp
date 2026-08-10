@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-10 04:07",
+  "last_updated": "2026-08-10 05:41",
   "items": [
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-08-10T13:17:33+09:00",
+      "start_date": "2026-08-10",
+      "start_ts": 1786335453,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "7028a6c5ce75",
       "title": "ハートフル撮影会",
@@ -41,27 +62,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-10T10:16:05+09:00",
-      "start_date": "2026-08-10",
-      "start_ts": 1786324565,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
