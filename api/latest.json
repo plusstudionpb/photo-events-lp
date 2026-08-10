@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-10 22:03",
+  "last_updated": "2026-08-10 22:54",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-08-11T07:27:22+09:00",
+      "start_date": "2026-08-10",
+      "start_ts": 1786400842,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -251,27 +272,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8ef961918c8d",
-      "title": "フレッシュ　個人撮影会",
-      "date": "2026-08-10T11:28:02+09:00",
-      "start_date": "2026-08-10",
-      "start_ts": 1786328882,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/premium/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
