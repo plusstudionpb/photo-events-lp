@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-14 19:30",
+  "last_updated": "2026-08-14 20:10",
   "items": [
+    {
+      "id": "9d39a4c96830",
+      "title": "美マージュ",
+      "date": "2026-08-15T05:00:25+09:00",
+      "start_date": "2026-08-14",
+      "start_ts": 1786737625,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.bimage.client.jp/tokyo-1.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "94308fccfae7",
       "title": "エモーション撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2f97b6e6fbb1",
-      "title": "xxcross 2.5次元 コスプレ撮影会",
-      "date": "2026-08-14T00:36:29+09:00",
-      "start_date": "2026-08-13",
-      "start_ts": 1786635389,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://xxcross.com/",
       "rating": "all",
       "genres": [
         "other"
