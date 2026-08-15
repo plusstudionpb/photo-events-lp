@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-15 17:54",
+  "last_updated": "2026-08-15 18:34",
   "items": [
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-08-16T03:14:07+09:00",
+      "start_date": "2026-08-15",
+      "start_ts": 1786817647,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -202,27 +223,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-08-15T17:52:39+09:00",
-      "start_date": "2026-08-15",
-      "start_ts": 1786783959,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
