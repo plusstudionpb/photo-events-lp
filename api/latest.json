@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-15 18:34",
+  "last_updated": "2026-08-15 19:00",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-08-16T03:37:19+09:00",
+      "start_date": "2026-08-15",
+      "start_ts": 1786819039,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -265,27 +286,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-08-15T13:20:01+09:00",
-      "start_date": "2026-08-15",
-      "start_ts": 1786767601,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
