@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-18 13:45",
+  "last_updated": "2026-08-18 14:17",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-08-18T23:09:56+09:00",
+      "start_date": "2026-08-18",
+      "start_ts": 1787062196,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-08-18T22:59:45+09:00",
+      "start_date": "2026-08-18",
+      "start_ts": 1787061585,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -160,27 +202,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-08-18T13:25:19+09:00",
-      "start_date": "2026-08-18",
-      "start_ts": 1787027119,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a7c28f85d6d",
-      "title": "PLAYZONE",
-      "date": "2026-08-17T07:41:02+09:00",
-      "start_date": "2026-08-16",
-      "start_ts": 1786920062,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://playzone.jp/pc/schedule/",
       "rating": "all",
       "genres": [
         "other"
