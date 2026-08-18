@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-18 18:15",
+  "last_updated": "2026-08-18 19:01",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-08-19T04:01:07+09:00",
+      "start_date": "2026-08-18",
+      "start_ts": 1787079667,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2db40c4a8a54",
       "title": "Greif撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/girls-photo-session/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-08-17T13:19:41+09:00",
-      "start_date": "2026-08-17",
-      "start_ts": 1786940381,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
