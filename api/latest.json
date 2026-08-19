@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-19 14:00",
+  "last_updated": "2026-08-19 14:50",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-08-19T23:14:18+09:00",
+      "start_date": "2026-08-19",
+      "start_ts": 1787148858,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "94308fccfae7",
+      "title": "エモーション撮影会",
+      "date": "2026-08-19T23:08:37+09:00",
+      "start_date": "2026-08-19",
+      "start_ts": 1787148517,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.emotion-c.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -212,27 +254,6 @@
       ]
     },
     {
-      "id": "8ef961918c8d",
-      "title": "フレッシュ　個人撮影会",
-      "date": "2026-08-19T07:04:58+09:00",
-      "start_date": "2026-08-18",
-      "start_ts": 1787090698,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/premium/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "583c0146d122",
       "title": "newtype撮影会",
       "date": "2026-08-19T04:05:46+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.st-zoom.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-08-18T21:28:25+09:00",
-      "start_date": "2026-08-18",
-      "start_ts": 1787056105,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
