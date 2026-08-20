@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-20 17:06",
+  "last_updated": "2026-08-20 17:43",
   "items": [
+    {
+      "id": "15f512897cba",
+      "title": "はなまる撮影会",
+      "date": "2026-08-21T02:36:36+09:00",
+      "start_date": "2026-08-20",
+      "start_ts": 1787247396,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://hanamaru-photo.com/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-08-21T02:06:43+09:00",
+      "start_date": "2026-08-20",
+      "start_ts": 1787245603,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
@@ -317,27 +359,6 @@
       ]
     },
     {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-08-20T09:47:29+09:00",
-      "start_date": "2026-08-20",
-      "start_ts": 1787186849,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "2f97b6e6fbb1",
       "title": "xxcross 2.5次元 コスプレ撮影会",
       "date": "2026-08-20T03:07:06+09:00",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/akb/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "5c0c8a5c1d2c",
-      "title": "スタイルコーポレーション",
-      "date": "2026-08-20T00:33:57+09:00",
-      "start_date": "2026-08-19",
-      "start_ts": 1787153637,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.stylecorporation.com/schedule/index.html",
       "rating": "all",
       "genres": [
         "other"
