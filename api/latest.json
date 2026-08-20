@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-20 13:08",
+  "last_updated": "2026-08-20 13:58",
   "items": [
+    {
+      "id": "e10dcdee1da7",
+      "title": "Melty撮影会 [メルティ撮影会] | モデル＆アイドル撮影会",
+      "date": "2026-08-20T22:51:01+09:00",
+      "start_date": "2026-08-20",
+      "start_ts": 1787233861,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://melty.photo/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.stylecorporation.com/schedule/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "94308fccfae7",
-      "title": "エモーション撮影会",
-      "date": "2026-08-19T23:08:37+09:00",
-      "start_date": "2026-08-19",
-      "start_ts": 1787148517,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.emotion-c.com/",
       "rating": "all",
       "genres": [
         "other"
