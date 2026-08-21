@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-21 02:53",
+  "last_updated": "2026-08-21 03:52",
   "items": [
     {
-      "id": "9073218343bb",
-      "title": "HOX撮影会",
-      "date": "2026-08-21T10:53:19+09:00",
+      "id": "0cae2e713023",
+      "title": "フレッシュ　フォトセッション",
+      "date": "2026-08-21T12:42:36+09:00",
       "start_date": "2026-08-21",
-      "start_ts": 1787277199,
+      "start_ts": 1787283756,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "official_url": "https://www.fresh-club.net/akb/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,9 +25,9 @@
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-08-21T09:14:19+09:00",
+      "date": "2026-08-21T12:25:48+09:00",
       "start_date": "2026-08-21",
-      "start_ts": 1787271259,
+      "start_ts": 1787282748,
       "pref": "",
       "city": "",
       "venue": "",
@@ -46,15 +46,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-21T09:00:38+09:00",
+      "date": "2026-08-21T12:07:36+09:00",
       "start_date": "2026-08-21",
-      "start_ts": 1787270438,
+      "start_ts": 1787281656,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2026-08-21T10:53:19+09:00",
+      "start_date": "2026-08-21",
+      "start_ts": 1787277199,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
       "rating": "all",
       "genres": [
         "other"
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "2f74c6925ef5",
-      "title": "GirlsPhotoSession / GPS撮影会",
-      "date": "2026-08-20T11:15:48+09:00",
-      "start_date": "2026-08-20",
-      "start_ts": 1787192148,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/girls-photo-session/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
