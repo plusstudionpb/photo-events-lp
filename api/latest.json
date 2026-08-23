@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-23 15:26",
+  "last_updated": "2026-08-23 15:48",
   "items": [
+    {
+      "id": "2f74c6925ef5",
+      "title": "GirlsPhotoSession / GPS撮影会",
+      "date": "2026-08-24T00:48:40+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787500120,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/girls-photo-session/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "9896238f28a2",
       "title": "ヌード撮影会 PLUS ONE(プラスワン)",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2f74c6925ef5",
-      "title": "GirlsPhotoSession / GPS撮影会",
-      "date": "2026-08-22T11:08:03+09:00",
-      "start_date": "2026-08-22",
-      "start_ts": 1787364483,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/girls-photo-session/",
       "rating": "all",
       "genres": [
         "other"
