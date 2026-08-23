@@ -1,18 +1,81 @@
 {
-  "last_updated": "2026-08-23 00:29",
+  "last_updated": "2026-08-23 02:10",
   "items": [
     {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-08-23T06:37:09+09:00",
-      "start_date": "2026-08-22",
-      "start_ts": 1787434629,
+      "date": "2026-08-23T10:39:57+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787449197,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-08-23T10:29:04+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787448544,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "9073218343bb",
+      "title": "HOX撮影会",
+      "date": "2026-08-23T10:28:14+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787448494,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.mynet.ne.jp/hox/photomeeting/index.html",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-08-23T09:31:07+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787445067,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -41,27 +104,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-08-23T04:37:42+09:00",
-      "start_date": "2026-08-22",
-      "start_ts": 1787427462,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -146,27 +188,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-08-22T21:55:35+09:00",
-      "start_date": "2026-08-22",
-      "start_ts": 1787403335,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.newtype-side7.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1a0fba1a141f",
-      "title": "ZOOM撮影会",
-      "date": "2026-08-21T20:55:39+09:00",
-      "start_date": "2026-08-21",
-      "start_ts": 1787313339,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.st-zoom.com/",
       "rating": "all",
       "genres": [
         "other"
