@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-23 05:59",
+  "last_updated": "2026-08-23 06:55",
   "items": [
+    {
+      "id": "2f97b6e6fbb1",
+      "title": "xxcross 2.5次元 コスプレ撮影会",
+      "date": "2026-08-23T15:41:14+09:00",
+      "start_date": "2026-08-23",
+      "start_ts": 1787467274,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://xxcross.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e36903a2fa73",
       "title": "シフォン撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.viewit.co.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "c649ab82144a",
-      "title": "フレッシュ　屋外大撮影会",
-      "date": "2026-08-22T00:08:00+09:00",
-      "start_date": "2026-08-21",
-      "start_ts": 1787324880,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/outdoor/",
       "rating": "all",
       "genres": [
         "other"
