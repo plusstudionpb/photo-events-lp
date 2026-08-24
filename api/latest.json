@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-24 14:56",
+  "last_updated": "2026-08-24 15:47",
   "items": [
+    {
+      "id": "1a0fba1a141f",
+      "title": "ZOOM撮影会",
+      "date": "2026-08-25T00:45:36+09:00",
+      "start_date": "2026-08-24",
+      "start_ts": 1787586336,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.st-zoom.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "a6ae879e4be3",
       "title": "ツインリンクもてぎ",
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "9d39a4c96830",
-      "title": "美マージュ",
-      "date": "2026-08-23T16:30:28+09:00",
-      "start_date": "2026-08-23",
-      "start_ts": 1787470228,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.bimage.client.jp/tokyo-1.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
