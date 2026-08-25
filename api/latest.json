@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-25 07:14",
+  "last_updated": "2026-08-25 08:02",
   "items": [
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-08-25T16:15:18+09:00",
+      "start_date": "2026-08-25",
+      "start_ts": 1787642118,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
@@ -97,27 +118,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/kokuchi/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-08-25T08:19:29+09:00",
-      "start_date": "2026-08-24",
-      "start_ts": 1787613569,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
