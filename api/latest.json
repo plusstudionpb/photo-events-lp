@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-01 16:39",
+  "last_updated": "2026-09-01 19:35",
   "items": [
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-02T00:13:34+09:00",
+      "date": "2026-09-02T03:18:27+09:00",
       "start_date": "2026-09-01",
-      "start_ts": 1788275614,
+      "start_ts": 1788286707,
       "pref": "",
       "city": "",
       "venue": "",
@@ -20,6 +20,27 @@
       "tags": [
         "RSS",
         "全年齢"
+      ]
+    },
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-09-02T03:18:19+09:00",
+      "start_date": "2026-09-01",
+      "start_ts": 1788286699,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
       ]
     },
     {
@@ -293,27 +314,6 @@
       "tags": [
         "RSS",
         "全年齢"
-      ]
-    },
-    {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-09-01T13:18:32+09:00",
-      "start_date": "2026-09-01",
-      "start_ts": 1788236312,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
       ]
     },
     {
