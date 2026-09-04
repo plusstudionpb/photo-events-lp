@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-09-04 13:43",
+  "last_updated": "2026-09-04 17:10",
   "items": [
+    {
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-09-05T01:22:31+09:00",
+      "start_date": "2026-09-04",
+      "start_ts": 1788538951,
+      "pref": "東京",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "2a69e70b5f04",
+      "title": "Pulchra撮影会",
+      "date": "2026-09-05T01:11:01+09:00",
+      "start_date": "2026-09-04",
+      "start_ts": 1788538261,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/kokuchi/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-09-05T00:30:47+09:00",
+      "start_date": "2026-09-04",
+      "start_ts": 1788535847,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-09-04T23:52:08+09:00",
+      "start_date": "2026-09-04",
+      "start_ts": 1788533528,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-09-04T23:20:12+09:00",
+      "start_date": "2026-09-04",
+      "start_ts": 1788531612,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "e06f9ae6c57a",
       "title": "asフォトセッション",
@@ -65,27 +170,6 @@
       ]
     },
     {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-04T20:18:10+09:00",
-      "start_date": "2026-09-04",
-      "start_ts": 1788520690,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "40f217044610",
       "title": "ODAIBA撮影会",
       "date": "2026-09-04T19:57:35+09:00",
@@ -128,27 +212,6 @@
       ]
     },
     {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-09-04T17:11:05+09:00",
-      "start_date": "2026-09-04",
-      "start_ts": 1788509465,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
       "id": "3cc3ae4c2365",
       "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
       "date": "2026-09-04T16:53:21+09:00",
@@ -160,27 +223,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.pashari.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cb139c78323",
-      "title": "東京Lily",
-      "date": "2026-09-04T16:13:49+09:00",
-      "start_date": "2026-09-04",
-      "start_ts": 1788506029,
-      "pref": "東京",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
@@ -244,27 +286,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "2a69e70b5f04",
-      "title": "Pulchra撮影会",
-      "date": "2026-09-04T07:43:23+09:00",
-      "start_date": "2026-09-03",
-      "start_ts": 1788475403,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/kokuchi/",
       "rating": "all",
       "genres": [
         "other"
@@ -349,27 +370,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://st-moment.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-09-04T02:52:12+09:00",
-      "start_date": "2026-09-03",
-      "start_ts": 1788457932,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
