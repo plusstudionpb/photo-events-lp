@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-09-05 06:20",
+  "last_updated": "2026-09-05 10:46",
   "items": [
+    {
+      "id": "8b2738f1614a",
+      "title": "AV女優個人撮影会アミーゴ",
+      "date": "2026-09-05T18:48:23+09:00",
+      "start_date": "2026-09-05",
+      "start_ts": 1788601703,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.amigo-girl.com/schedule.php",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-09-05T17:26:46+09:00",
+      "start_date": "2026-09-05",
+      "start_ts": 1788596806,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "1860af763485",
+      "title": "フレッシュ　スペシャル大撮影会",
+      "date": "2026-09-05T17:25:22+09:00",
+      "start_date": "2026-09-05",
+      "start_ts": 1788596722,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/special/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "2a69e70b5f04",
       "title": "Pulchra撮影会",
@@ -34,27 +97,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://studio-g.net/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-05T13:28:44+09:00",
-      "start_date": "2026-09-05",
-      "start_ts": 1788582524,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
       "rating": "all",
       "genres": [
         "other"
@@ -223,48 +265,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://tokyolily.jp/satsuei_event/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "8b2738f1614a",
-      "title": "AV女優個人撮影会アミーゴ",
-      "date": "2026-09-05T00:30:47+09:00",
-      "start_date": "2026-09-04",
-      "start_ts": 1788535847,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.amigo-girl.com/schedule.php",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
-      "id": "1860af763485",
-      "title": "フレッシュ　スペシャル大撮影会",
-      "date": "2026-09-04T23:52:08+09:00",
-      "start_date": "2026-09-04",
-      "start_ts": 1788533528,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://www.fresh-club.net/special/",
       "rating": "all",
       "genres": [
         "other"
