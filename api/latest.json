@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-06 17:52",
+  "last_updated": "2026-09-06 20:12",
   "items": [
     {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-09-07T01:36:40+09:00",
+      "id": "3cb139c78323",
+      "title": "東京Lily",
+      "date": "2026-09-07T04:33:25+09:00",
       "start_date": "2026-09-06",
-      "start_ts": 1788712600,
-      "pref": "",
+      "start_ts": 1788723205,
+      "pref": "東京",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
+      "official_url": "https://tokyolily.jp/satsuei_event/",
       "rating": "all",
       "genres": [
         "other"
@@ -25,15 +25,36 @@
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-07T00:02:23+09:00",
+      "date": "2026-09-07T03:06:33+09:00",
       "start_date": "2026-09-06",
-      "start_ts": 1788706943,
+      "start_ts": 1788717993,
       "pref": "",
       "city": "",
       "venue": "",
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-09-07T01:36:40+09:00",
+      "start_date": "2026-09-06",
+      "start_ts": 1788712600,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -398,27 +419,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "68dcbaa233ae",
-      "title": "撮影会 viewit",
-      "date": "2026-09-06T03:14:35+09:00",
-      "start_date": "2026-09-05",
-      "start_ts": 1788632075,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.viewit.co.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
