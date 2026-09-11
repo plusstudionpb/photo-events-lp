@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-09-11 14:57",
+  "last_updated": "2026-09-11 18:21",
   "items": [
+    {
+      "id": "8ef961918c8d",
+      "title": "フレッシュ　個人撮影会",
+      "date": "2026-09-12T02:51:20+09:00",
+      "start_date": "2026-09-11",
+      "start_ts": 1789149080,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.fresh-club.net/premium/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-09-12T02:18:56+09:00",
+      "start_date": "2026-09-11",
+      "start_ts": 1789147136,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-09-12T00:54:29+09:00",
+      "start_date": "2026-09-11",
+      "start_ts": 1789142069,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "737f0f70adad",
       "title": "モデル撮影会「美マージュ」",
@@ -65,27 +128,6 @@
       ]
     },
     {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-09-11T23:13:03+09:00",
-      "start_date": "2026-09-11",
-      "start_ts": 1789135983,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "7b0cc095cf34",
       "title": "フレッシュ　企画型撮影会",
       "date": "2026-09-11T22:38:22+09:00",
@@ -125,27 +167,6 @@
       "tags": [
         "RSS",
         "R18"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-11T21:23:26+09:00",
-      "start_date": "2026-09-11",
-      "start_ts": 1789129406,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
       ]
     },
     {
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://hanamaru-photo.com/schedule",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "e36903a2fa73",
-      "title": "シフォン撮影会",
-      "date": "2026-09-11T02:19:27+09:00",
-      "start_date": "2026-09-10",
-      "start_ts": 1789060767,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://chiffon.photo/",
       "rating": "all",
       "genres": [
         "other"
