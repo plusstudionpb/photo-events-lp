@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-09-27 22:06",
+  "last_updated": "2026-09-28 00:42",
   "items": [
+    {
+      "id": "0e13c8ae8a0c",
+      "title": "スタジオガーネット",
+      "date": "2026-09-28T09:38:20+09:00",
+      "start_date": "2026-09-28",
+      "start_ts": 1790555900,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://studio-g.net/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "9896238f28a2",
+      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
+      "date": "2026-09-28T08:32:23+09:00",
+      "start_date": "2026-09-27",
+      "start_ts": 1790551943,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://pls1.jp/top/",
+      "rating": "r18",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "R18"
+      ]
+    },
+    {
+      "id": "35ba65bebdbf",
+      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
+      "date": "2026-09-28T08:26:52+09:00",
+      "start_date": "2026-09-27",
+      "start_ts": 1790551612,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://photo-session-chance.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "09f07a8070e5",
+      "title": "たんぽぽ撮影会",
+      "date": "2026-09-28T07:45:18+09:00",
+      "start_date": "2026-09-27",
+      "start_ts": 1790549118,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://newpiece-inc.com/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3cc3ae4c2365",
+      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
+      "date": "2026-09-28T07:16:47+09:00",
+      "start_date": "2026-09-27",
+      "start_ts": 1790547407,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://www.pashari.jp/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "15f512897cba",
       "title": "はなまる撮影会",
@@ -34,48 +139,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://select-type.com/rsv/?id=WkcLju---10",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "35ba65bebdbf",
-      "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-09-28T05:22:40+09:00",
-      "start_date": "2026-09-27",
-      "start_ts": 1790540560,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://photo-session-chance.com/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "3cc3ae4c2365",
-      "title": "モデル撮影会やポートレート撮影会ならパシャリ PASHARI",
-      "date": "2026-09-28T04:09:46+09:00",
-      "start_date": "2026-09-27",
-      "start_ts": 1790536186,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.pashari.jp/",
       "rating": "all",
       "genres": [
         "other"
@@ -202,48 +265,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "https://www.fresh-club.net/special/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "9896238f28a2",
-      "title": "ヌード撮影会 PLUS ONE(プラスワン)",
-      "date": "2026-09-27T21:41:07+09:00",
-      "start_date": "2026-09-27",
-      "start_ts": 1790512867,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://pls1.jp/top/",
-      "rating": "r18",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "R18"
-      ]
-    },
-    {
-      "id": "0e13c8ae8a0c",
-      "title": "スタジオガーネット",
-      "date": "2026-09-27T17:27:19+09:00",
-      "start_date": "2026-09-27",
-      "start_ts": 1790497639,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "https://studio-g.net/",
       "rating": "all",
       "genres": [
         "other"
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.stylecorporation.com/schedule/index.html",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "409a7f8261c0",
-      "title": "スタジオいちごはうす撮影会",
-      "date": "2026-09-26T15:56:29+09:00",
-      "start_date": "2026-09-26",
-      "start_ts": 1790405789,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://strawberryhouse.jp/schedule.htm",
       "rating": "all",
       "genres": [
         "other"
