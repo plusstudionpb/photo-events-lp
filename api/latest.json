@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-10-09 23:25",
+  "last_updated": "2026-10-10 02:36",
   "items": [
+    {
+      "id": "a8ad7d400bd7",
+      "title": "FESTASOLE",
+      "date": "2026-10-10T08:45:36+09:00",
+      "start_date": "2026-10-09",
+      "start_ts": 1791589536,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "https://www.festasole.net/schedule",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "8ef961918c8d",
       "title": "フレッシュ　個人撮影会",
@@ -391,27 +412,6 @@
       "price": "",
       "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
       "official_url": "http://www.bluebus.jp/event/satsueikai/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
-      "id": "68dcbaa233ae",
-      "title": "撮影会 viewit",
-      "date": "2026-10-09T06:25:30+09:00",
-      "start_date": "2026-10-08",
-      "start_ts": 1791494730,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://www.viewit.co.jp/",
       "rating": "all",
       "genres": [
         "other"
