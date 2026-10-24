@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-10-24 07:02",
+  "last_updated": "2026-10-24 11:58",
   "items": [
+    {
+      "id": "7028a6c5ce75",
+      "title": "ハートフル撮影会",
+      "date": "2026-10-24T20:27:28+09:00",
+      "start_date": "2026-10-24",
+      "start_ts": 1792841248,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
+      "official_url": "http://ameblo.jp/heartful01/",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
     {
       "id": "35ba65bebdbf",
       "title": "モデル撮影会・アイドル撮影会のチャンス撮影会",
-      "date": "2026-10-24T15:36:25+09:00",
+      "date": "2026-10-24T18:41:14+09:00",
       "start_date": "2026-10-24",
-      "start_ts": 1792823785,
+      "start_ts": 1792834874,
       "pref": "",
       "city": "",
       "venue": "",
@@ -296,27 +317,6 @@
       ]
     },
     {
-      "id": "7028a6c5ce75",
-      "title": "ハートフル撮影会",
-      "date": "2026-10-24T03:06:34+09:00",
-      "start_date": "2026-10-23",
-      "start_ts": 1792778794,
-      "pref": "",
-      "city": "",
-      "venue": "",
-      "price": "",
-      "organizer": "はてなアンテナ - モデル撮影会のアンテナ",
-      "official_url": "http://ameblo.jp/heartful01/",
-      "rating": "all",
-      "genres": [
-        "other"
-      ],
-      "tags": [
-        "RSS",
-        "全年齢"
-      ]
-    },
-    {
       "id": "0cae2e713023",
       "title": "フレッシュ　フォトセッション",
       "date": "2026-10-24T01:12:58+09:00",
@@ -422,6 +422,69 @@
       ]
     },
     {
+      "id": "a731951920db",
+      "title": "お仕事用プロフィール写真撮影会（9月）開催のお知らせ",
+      "date": "2026-09-02T12:56:00+09:00",
+      "start_date": "2026-09-02",
+      "start_ts": 1788321360,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6902186",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "c3c08b1fd160",
+      "title": "【新企画】ママと赤ちゃんの撮影会のお知らせ",
+      "date": "2026-08-01T11:14:00+09:00",
+      "start_date": "2026-08-01",
+      "start_ts": 1785550440,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6862795",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "02c36c22ae77",
+      "title": "お仕事用プロフィール写真撮影会（8月）開催のお知らせ",
+      "date": "2026-07-23T15:51:00+09:00",
+      "start_date": "2026-07-23",
+      "start_ts": 1784789460,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6849886",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
       "id": "d403c6d66c7d",
       "title": "ワンちゃん撮影会",
       "date": "2026-07-07T00:00:00+09:00",
@@ -433,6 +496,90 @@
       "price": "",
       "organizer": "フォトハウスシマカゲ",
       "official_url": "https://photo-shimakage.com/info/6605481",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "54e9e24c8daa",
+      "title": "お仕事用プロフィール写真撮影会（7月）開催のお知らせ",
+      "date": "2026-06-27T15:08:00+09:00",
+      "start_date": "2026-06-27",
+      "start_ts": 1782540480,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6816793",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "aeef8db37e9c",
+      "title": "お仕事用プロフィール写真撮影会（6月）開催のお知らせ",
+      "date": "2026-05-23T16:44:00+09:00",
+      "start_date": "2026-05-23",
+      "start_ts": 1779522240,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6771873",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "7c676209d39a",
+      "title": "お仕事用プロフィール写真撮影会（５月）開催のお知らせ",
+      "date": "2026-04-22T15:01:00+09:00",
+      "start_date": "2026-04-22",
+      "start_ts": 1776837660,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6732311",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "6794bd34633f",
+      "title": "お仕事用プロフィール写真撮影会開催のお知らせ",
+      "date": "2026-03-31T11:13:00+09:00",
+      "start_date": "2026-03-31",
+      "start_ts": 1774923180,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6701174",
       "rating": "all",
       "genres": [
         "other"
@@ -517,6 +664,69 @@
       "price": "",
       "organizer": "Smilestoneおうち写真館｜小岩の写真スタジオ",
       "official_url": "https://smilestone-studio.com/info/6183495",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "3019a1d49e32",
+      "title": "ワンちゃん プロフィール写真撮影会 開催",
+      "date": "2025-02-24T10:59:00+09:00",
+      "start_date": "2025-02-24",
+      "start_ts": 1740362340,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/6149541",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "afc94982d538",
+      "title": "はだかの赤ちゃん写真展　　　撮影イベント開催決定！",
+      "date": "2024-05-12T16:17:00+09:00",
+      "start_date": "2024-05-12",
+      "start_ts": 1715498220,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/5726651",
+      "rating": "all",
+      "genres": [
+        "other"
+      ],
+      "tags": [
+        "RSS",
+        "全年齢"
+      ]
+    },
+    {
+      "id": "f8fa8fd911d7",
+      "title": "『森の撮影会』開催のお知らせ",
+      "date": "2024-04-16T16:12:00+09:00",
+      "start_date": "2024-04-16",
+      "start_ts": 1713251520,
+      "pref": "",
+      "city": "",
+      "venue": "",
+      "price": "",
+      "organizer": "photo live studio FAGGIO",
+      "official_url": "https://photofaggio.com/info/5686285",
       "rating": "all",
       "genres": [
         "other"
